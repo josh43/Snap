@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="10174" systemVersion="15F34" minimumToolsVersion="Xcode 7.0">
+    <entity name="Comment" representedClassName="Comment" syncable="YES">
+        <attribute name="cantDeleteThisBecauseXCOdeCrashes" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="comment" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="date" optional="YES" attributeType="Date" indexed="YES" syncable="YES"/>
+        <attribute name="username" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="Content" representedClassName="Content" syncable="YES">
+        <attribute name="content" optional="YES" attributeType="Binary" storedInTruthFile="YES" syncable="YES"/>
+        <attribute name="contentType" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="hasDownloaded" optional="YES" attributeType="Boolean" defaultValueString="NO" syncable="YES"/>
+        <attribute name="url" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="newRelationship" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Snap" inverseName="content" inverseEntity="Snap" syncable="YES"/>
+        <relationship name="newRelationship1" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Friend" inverseName="picture" inverseEntity="Friend" syncable="YES"/>
+        <relationship name="newRelationship2" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="UserInfo" inverseName="picture" inverseEntity="UserInfo" syncable="YES"/>
+    </entity>
+    <entity name="Friend" representedClassName="Friend" syncable="YES">
+        <attribute name="currentUserName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="displayName" optional="YES" attributeType="String" indexed="YES" syncable="YES"/>
+        <attribute name="firstLetter" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="friendType" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="username" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="newRelationship" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Snap" inverseName="usersWhoHaveNotSeen" inverseEntity="Snap" syncable="YES"/>
+        <relationship name="newRelationship1" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Snap" inverseName="usersWhoHaveSeen" inverseEntity="Snap" syncable="YES"/>
+        <relationship name="newRelationship2" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="UserInfo" syncable="YES"/>
+        <relationship name="picture" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Content" inverseName="newRelationship1" inverseEntity="Content" syncable="YES"/>
+        <relationship name="story" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Story" inverseName="user" inverseEntity="Story" syncable="YES"/>
+    </entity>
+    <entity name="Snap" representedClassName="Snap" syncable="YES">
+        <attribute name="currentUserName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="dateSent" optional="YES" attributeType="Date" indexed="YES" syncable="YES"/>
+        <attribute name="hasSeen" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="length" optional="YES" attributeType="Float" defaultValueString="0" syncable="YES"/>
+        <attribute name="snapID" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="snapType" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <relationship name="content" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Content" inverseName="newRelationship" inverseEntity="Content" syncable="YES"/>
+        <relationship name="friend" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Friend" syncable="YES"/>
+        <relationship name="newRelationship" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Story" inverseName="snapList" inverseEntity="Story" syncable="YES"/>
+        <relationship name="newRelationship2" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Story" inverseName="mostRecentSnapNotSeen" inverseEntity="Story" syncable="YES"/>
+        <relationship name="thisUser" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="UserInfo" inverseName="snapChats" inverseEntity="UserInfo" syncable="YES"/>
+        <relationship name="usersWhoHaveNotSeen" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Friend" inverseName="newRelationship" inverseEntity="Friend" syncable="YES"/>
+        <relationship name="usersWhoHaveSeen" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Friend" inverseName="newRelationship1" inverseEntity="Friend" syncable="YES"/>
+    </entity>
+    <entity name="Story" representedClassName="Story" syncable="YES">
+        <attribute name="currentUserName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="numberOfSnaps" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="numberViewed" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <relationship name="mostRecentSnapNotSeen" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Snap" inverseName="newRelationship2" inverseEntity="Snap" syncable="YES"/>
+        <relationship name="myInfo" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="UserInfo" inverseName="story" inverseEntity="UserInfo" syncable="YES"/>
+        <relationship name="snapList" optional="YES" toMany="YES" deletionRule="Nullify" ordered="YES" destinationEntity="Snap" inverseName="newRelationship" inverseEntity="Snap" syncable="YES"/>
+        <relationship name="user" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Friend" inverseName="story" inverseEntity="Friend" syncable="YES"/>
+    </entity>
+    <entity name="UserInfo" representedClassName="UserInfo" syncable="YES">
+        <attribute name="currentUser" optional="YES" attributeType="Boolean" defaultValueString="NO" syncable="YES"/>
+        <attribute name="displayName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="lastServerQuery" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="password" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="username" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="picture" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Content" inverseName="newRelationship2" inverseEntity="Content" syncable="YES"/>
+        <relationship name="snapChats" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Snap" inverseName="thisUser" inverseEntity="Snap" syncable="YES"/>
+        <relationship name="story" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Story" inverseName="myInfo" inverseEntity="Story" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Comment" positionX="-902" positionY="747" width="128" height="103"/>
+        <element name="Content" positionX="-495" positionY="747" width="128" height="148"/>
+        <element name="Friend" positionX="-747" positionY="17" width="162" height="193"/>
+        <element name="Snap" positionX="-1118" positionY="-70" width="128" height="238"/>
+        <element name="Story" positionX="-317" positionY="416" width="128" height="148"/>
+        <element name="UserInfo" positionX="-317" positionY="104" width="128" height="163"/>
+    </elements>
+</model>

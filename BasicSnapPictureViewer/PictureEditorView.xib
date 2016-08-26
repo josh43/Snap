@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="10117" systemVersion="15F34" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
+        <capability name="Constraints with non-1.0 multipliers" minToolsVersion="5.1"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="oAi-2Y-c7b" customClass="PictureEditorView">
+            <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <slider opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" value="0.10000000000000001" minValue="0.0" maxValue="1" translatesAutoresizingMaskIntoConstraints="NO" id="VOa-5k-OZA" userLabel="Slider">
+                    <rect key="frame" x="390" y="28" width="120" height="31"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="116" id="2Ma-BI-2gG"/>
+                    </constraints>
+                    <connections>
+                        <action selector="sliderChanged:" destination="oAi-2Y-c7b" eventType="valueChanged" id="QCm-Hc-MQp"/>
+                    </connections>
+                </slider>
+                <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Lk8-yL-2Ue">
+                    <rect key="frame" x="159" y="56" width="44" height="43"/>
+                    <state key="normal" image="TextButton"/>
+                    <connections>
+                        <action selector="textPressed:" destination="oAi-2Y-c7b" eventType="touchUpInside" id="D4i-9Q-TMm"/>
+                    </connections>
+                </button>
+                <textField hidden="YES" opaque="NO" clipsSubviews="YES" alpha="0.5" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="Enter Text" textAlignment="center" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="Gf1-aH-3dz">
+                    <rect key="frame" x="-60" y="333" width="720" height="30"/>
+                    <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                    <color key="tintColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    <accessibility key="accessibilityConfiguration">
+                        <accessibilityTraits key="traits" notEnabled="YES"/>
+                    </accessibility>
+                    <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                    <textInputTraits key="textInputTraits" autocorrectionType="no" spellCheckingType="no" returnKeyType="done"/>
+                </textField>
+                <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="PyF-vc-IjG">
+                    <rect key="frame" x="256" y="91" width="88" height="43"/>
+                    <state key="normal" image="Undo"/>
+                    <connections>
+                        <action selector="undoLast:" destination="oAi-2Y-c7b" eventType="touchUpInside" id="6uS-yo-3VU"/>
+                    </connections>
+                </button>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstItem="Gf1-aH-3dz" firstAttribute="centerX" secondItem="oAi-2Y-c7b" secondAttribute="centerX" id="0WP-qR-pSa"/>
+                <constraint firstItem="Lk8-yL-2Ue" firstAttribute="top" secondItem="VOa-5k-OZA" secondAttribute="bottom" constant="15" id="DR0-XV-m03"/>
+                <constraint firstItem="PyF-vc-IjG" firstAttribute="leading" secondItem="Lk8-yL-2Ue" secondAttribute="trailing" constant="25" id="M74-gD-Wtd"/>
+                <constraint firstItem="Gf1-aH-3dz" firstAttribute="centerY" secondItem="oAi-2Y-c7b" secondAttribute="centerY" id="NxU-3b-My5"/>
+                <constraint firstItem="PyF-vc-IjG" firstAttribute="centerY" secondItem="Lk8-yL-2Ue" secondAttribute="centerY" id="OjU-S1-t3v"/>
+                <constraint firstItem="VOa-5k-OZA" firstAttribute="centerX" secondItem="oAi-2Y-c7b" secondAttribute="centerX" multiplier="3/2" id="QfI-Ay-VqV"/>
+                <constraint firstItem="Gf1-aH-3dz" firstAttribute="width" secondItem="oAi-2Y-c7b" secondAttribute="width" multiplier="1.2" id="WRu-e9-w0v"/>
+                <constraint firstAttribute="trailing" secondItem="PyF-vc-IjG" secondAttribute="trailing" constant="25" id="r7Q-cQ-1Qx"/>
+                <constraint firstItem="VOa-5k-OZA" firstAttribute="centerY" secondItem="oAi-2Y-c7b" secondAttribute="centerY" multiplier="1/7" id="t8f-Hf-m0Q"/>
+            </constraints>
+            <connections>
+                <outlet property="enableTextButton" destination="Lk8-yL-2Ue" id="ILs-LC-SBd"/>
+                <outlet property="slider" destination="VOa-5k-OZA" id="Aoo-cz-CIE"/>
+                <outlet property="textLabel" destination="Gf1-aH-3dz" id="ne6-tO-DiF"/>
+                <outlet property="undoButton" destination="PyF-vc-IjG" id="lXe-8x-cpY"/>
+            </connections>
+        </view>
+    </objects>
+    <resources>
+        <image name="TextButton" width="44" height="43"/>
+        <image name="Undo" width="44" height="43"/>
+    </resources>
+</document>

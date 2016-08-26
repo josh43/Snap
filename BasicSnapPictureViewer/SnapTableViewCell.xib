@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="10117" systemVersion="15F34" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
+        <capability name="Constraints with non-1.0 multipliers" minToolsVersion="5.1"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="snapTableViewCell" rowHeight="56" id="oAV-oc-UOt" customClass="SnapTableViewCell">
+            <rect key="frame" x="0.0" y="0.0" width="319" height="56"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="oAV-oc-UOt" id="2vX-DX-vya">
+                <rect key="frame" x="0.0" y="0.0" width="319" height="55"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" misplaced="YES" translatesAutoresizingMaskIntoConstraints="NO" id="rxp-hY-xDI">
+                        <rect key="frame" x="2" y="1" width="316" height="66"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" image="redFill" translatesAutoresizingMaskIntoConstraints="NO" id="pUw-7U-MNe">
+                                <rect key="frame" x="20" y="15" width="69" height="36"/>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="Cool Snap App" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Pj5-N4-Enf">
+                                <rect key="frame" x="106" y="16" width="114" height="21"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="Opened January 1st" textAlignment="justified" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="wyR-r1-dS1">
+                                <rect key="frame" x="93" y="23" width="223" height="22"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="13"/>
+                                <color key="textColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstItem="pUw-7U-MNe" firstAttribute="leading" secondItem="rxp-hY-xDI" secondAttribute="leading" constant="20" id="2VQ-Qm-ZvM"/>
+                            <constraint firstItem="pUw-7U-MNe" firstAttribute="top" secondItem="rxp-hY-xDI" secondAttribute="top" constant="15" id="C02-xx-y1u"/>
+                            <constraint firstItem="Pj5-N4-Enf" firstAttribute="leading" secondItem="pUw-7U-MNe" secondAttribute="trailing" constant="17" id="IJS-i2-jEq"/>
+                            <constraint firstItem="Pj5-N4-Enf" firstAttribute="centerY" secondItem="pUw-7U-MNe" secondAttribute="centerY" multiplier="8/10" id="TPj-5Q-96l"/>
+                            <constraint firstItem="wyR-r1-dS1" firstAttribute="leading" secondItem="pUw-7U-MNe" secondAttribute="trailing" constant="17" id="UAj-tm-DxE"/>
+                            <constraint firstItem="wyR-r1-dS1" firstAttribute="top" secondItem="Pj5-N4-Enf" secondAttribute="bottom" id="w2C-jN-Dra"/>
+                        </constraints>
+                    </view>
+                </subviews>
+                <color key="backgroundColor" red="0.97254901960784312" green="0.97254901960784312" blue="0.97254901960784312" alpha="1" colorSpace="calibratedRGB"/>
+                <color key="tintColor" red="0.0" green="0.47843137250000001" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                <constraints>
+                    <constraint firstItem="rxp-hY-xDI" firstAttribute="height" secondItem="2vX-DX-vya" secondAttribute="height" multiplier="95/100" id="MTK-3i-3cx"/>
+                    <constraint firstItem="rxp-hY-xDI" firstAttribute="centerY" secondItem="2vX-DX-vya" secondAttribute="centerY" id="Qgc-co-mo6"/>
+                    <constraint firstItem="rxp-hY-xDI" firstAttribute="centerX" secondItem="2vX-DX-vya" secondAttribute="centerX" id="aAi-Va-nSc"/>
+                    <constraint firstItem="rxp-hY-xDI" firstAttribute="width" secondItem="2vX-DX-vya" secondAttribute="width" priority="1" id="dTH-00-6dE"/>
+                </constraints>
+            </tableViewCellContentView>
+            <connections>
+                <outlet property="mainLabel" destination="Pj5-N4-Enf" id="Y3G-M8-JML"/>
+                <outlet property="picture" destination="pUw-7U-MNe" id="SjI-ng-6jI"/>
+                <outlet property="subLabel" destination="wyR-r1-dS1" id="5PZ-yy-Hbr"/>
+            </connections>
+            <point key="canvasLocation" x="276.5" y="138"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="redFill" width="20" height="19"/>
+    </resources>
+</document>

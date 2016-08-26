@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CIDR_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/PictureEditorView.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/TestPackage/SnapTVCTester.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/TestPackage/StoryTVCTester.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/TestPackage/SnapTVCTester.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/TestPackage/StoryTVCTester.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/SendToFriendTableViewCell.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/Command.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/CoreDelete.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/SnapTableViewCell.xib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/MyFriendsTVC.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/Post.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/FriendTVC.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/ContentFinishedViewController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/Post.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/FriendTVC.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/READMEORDONT.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/ViewController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/ViewController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/AddFriendTVC.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/Model.xcdatamodeld/Model.xcdatamodel" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/AddFriendTVC.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/SendToFriendTableViewCell.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/Command.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/TextDelegateHandler.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/Get.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/PictureEditorView.xib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/TextDelegateHandler.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/Base.lproj/LaunchScreen.storyboard" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/SnapTransition.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/SnapchatViewController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/SendToFriendTableViewCell.xib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/SnapchatViewController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/CoreUpdate.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/FriendTableViewCell.xib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/AVCam/AAPLCameraViewController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/AVCam/AAPLAppDelegate.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/AVCam/AAPLPreviewView.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/AVCam/README.md" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/AVCam/AAPLAppDelegate.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/AVCam/LICENSE.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/AVCam/AAPLCameraViewController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/AVCam/AAPLPreviewView.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/CoreUpdate.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/Assets.xcassets" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/SnapTransitionDelegate.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/AddedMeTVC.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/FriendTableViewCell.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/SnapTransitionDelegate.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/AddedMeTVC.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/FriendTableViewCell.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/MyFriendsTVC.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/StoryTableViewCell.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/SnapCellControllers/StorySnapViewController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/SnapCellControllers/StoryViewerDelegate.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/SnapCellControllers/ContentDisplayer.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/SnapCellControllers/SnapViewerViewController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/SnapCellControllers/ContentDisplayer.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/SnapCellControllers/VideoLayer.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/SnapCellControllers/PictureViewerInterface.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/SnapCellControllers/StorySnapViewController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/SnapCellControllers/SnapViewerViewController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/SnapCellControllers/VideoLayer.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/SendToUsersTVC.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/SendToUsersTVC.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/CoreDelete.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/CoreCreate.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/StoryTableViewCell.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/StoryTVC.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/AppDelegate.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/GetHelper.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/READMEORDONT copy.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/StoryTVC.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/AppDelegate.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/GetHelper.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/HTTPHelper.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/Delete.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/Main.storyboard" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/HTTPHelper.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/ContentFinishedViewController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/CoreCreate.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/Delete.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/main.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/CoreRead.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/SnapTableViewCell.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/SnapStoryViewController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/CoreRead.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/SnapCRUD/SnapRead.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/SnapCRUD/SnapUpdate.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/SnapCRUD/SnapCreate.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/SnapCRUD/SnapDelete.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/SnapCRUD/SnapCreate.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/SnapCRUD/RestfulSnapCRUD.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/SnapCRUD/SnapDelete.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/SnapCRUD/READMEORDONT.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/SnapCRUD/SnapRead.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/SnapCRUD/SnapUpdate.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/SnapCRUD/RestfulSnapCRUD.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/SnapTableViewCell.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/Rest.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/StoryTableViewCell.xib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/Info.plist" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/CoreCRUD.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/Get.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/PictureEditorView.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewer/SnapStoryViewController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/READMEORDONT.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Snap+CoreDataProperties.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Story+CoreDataProperties.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SnapTVC.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SnapTVC.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Snap.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Story+CoreDataProperties.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewerTests/SendAndReceiveSnapTVCTest.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewerTests/SendAndDeleteTest.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewerTests/BasicSnapPictureViewerTests.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewerTests/PostMethodTester.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewerTests/Info.plist" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewerTests/TestHelper.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewerTests/DeleteMethodTests.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewerTests/TestHelper.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LoginAndRegisterViewController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Story.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LoginAndRegisterViewController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Story.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MiddleViewController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewerUITests/Info.plist" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewerUITests/BasicSnapPictureViewerUITests.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSnapPictureViewerUITests/TestSnapTVC.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MiddleViewController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Content.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Content+CoreDataProperties.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Friend.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Content.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Content+CoreDataProperties.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Friend.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AuxiliaryViewControllers/AccountCell.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AuxiliaryViewControllers/AccountCell.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AuxiliaryViewControllers/AccountSettingsTVC.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AuxiliaryViewControllers/AccountCell.xib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AuxiliaryViewControllers/AccountSettingsTVC.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/trailerPark/trailerParkClip.mov" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Friend+CoreDataProperties.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UserInfo.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Friend+CoreDataProperties.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Utility.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UserInfo+CoreDataProperties.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UserInfo.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Snap.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Utility.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UserInfo+CoreDataProperties.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Snap+CoreDataProperties.m" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../PageViewSnap/PageViewSnap/SwipeViewController.h">
+      <sourceFolder url="file://$MODULE_DIR$/../PageViewSnap/PageViewSnap/SwipeViewController.h" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../PageViewSnap/PageViewSnap/SwipeViewController.m">
+      <sourceFolder url="file://$MODULE_DIR$/../PageViewSnap/PageViewSnap/SwipeViewController.m" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../SnapchatLayout/SnapchatLayout/MainViewController.h">
+      <sourceFolder url="file://$MODULE_DIR$/../SnapchatLayout/SnapchatLayout/MainViewController.h" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../SnapchatLayout/SnapchatLayout/MainViewController.m">
+      <sourceFolder url="file://$MODULE_DIR$/../SnapchatLayout/SnapchatLayout/MainViewController.m" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../SnapchatLayout/SnapchatLayout/PictureViewController.h">
+      <sourceFolder url="file://$MODULE_DIR$/../SnapchatLayout/SnapchatLayout/PictureViewController.h" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../SnapchatLayout/SnapchatLayout/PictureViewController.m">
+      <sourceFolder url="file://$MODULE_DIR$/../SnapchatLayout/SnapchatLayout/PictureViewController.m" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../SnapchatLayout/SnapchatLayout/SettingsViewController.h">
+      <sourceFolder url="file://$MODULE_DIR$/../SnapchatLayout/SnapchatLayout/SettingsViewController.h" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../SnapchatLayout/SnapchatLayout/SettingsViewController.m">
+      <sourceFolder url="file://$MODULE_DIR$/../SnapchatLayout/SnapchatLayout/SettingsViewController.m" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../SnapchatLayout/SnapchatLayout/TabBarObserver.h">
+      <sourceFolder url="file://$MODULE_DIR$/../SnapchatLayout/SnapchatLayout/TabBarObserver.h" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../SnapchatLayout/SnapchatLayout/TabBarObserver.m">
+      <sourceFolder url="file://$MODULE_DIR$/../SnapchatLayout/SnapchatLayout/TabBarObserver.m" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/Downloads/LearningCoreDataForiOS_AllSourceCode/Grocery Dude/CoreDataTVC.h">
+      <sourceFolder url="file://$USER_HOME$/Downloads/LearningCoreDataForiOS_AllSourceCode/Grocery Dude/CoreDataTVC.h" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/Downloads/LearningCoreDataForiOS_AllSourceCode/Grocery Dude/CoreDataTVC.m">
+      <sourceFolder url="file://$USER_HOME$/Downloads/LearningCoreDataForiOS_AllSourceCode/Grocery Dude/CoreDataTVC.m" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/Downloads/LearningCoreDataForiOS_AllSourceCode/Grocery Dude/Grocery Dude/CoreDataHelper.h">
+      <sourceFolder url="file://$USER_HOME$/Downloads/LearningCoreDataForiOS_AllSourceCode/Grocery Dude/Grocery Dude/CoreDataHelper.h" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/Downloads/LearningCoreDataForiOS_AllSourceCode/Grocery Dude/Grocery Dude/CoreDataHelper.m">
+      <sourceFolder url="file://$USER_HOME$/Downloads/LearningCoreDataForiOS_AllSourceCode/Grocery Dude/Grocery Dude/CoreDataHelper.m" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="Header Search Paths">
+        <CLASSES>
+          <root url="file:///Applications/Xcode 2.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer/Library/Frameworks/InterfaceBuilderKit.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer/Library/Frameworks/DTPerformanceSession.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Frameworks/XCTest.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/HealthKit.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/PassKit.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreAudioKit.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MultipeerConnectivity.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AssetsLibrary.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/WatchConnectivity.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreVideo.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/StoreKit.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/SceneKit.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/OpenGLES.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CFNetwork.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Accelerate.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Accelerate.framework/Frameworks/vImage.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Accelerate.framework/Frameworks/vecLib.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AddressBookUI.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/EventKit.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/WatchKit.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/GSS.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AudioUnit.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreSpotlight.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/LocalAuthentication.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/HealthKitUI.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Metal.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/VideoToolbox.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MediaToolbox.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Contacts.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/QuickLook.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/SafariServices.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/GameplayKit.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/WebKit.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CloudKit.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreImage.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/EventKitUI.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Photos.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MetalPerformanceShaders.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MediaPlayer.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AVFoundation.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/JavaScriptCore.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/PushKit.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreTelephony.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreText.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/ReplayKit.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/SpriteKit.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Twitter.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/NetworkExtension.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreAudio.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreData.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/UIKit.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Foundation.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MapKit.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/ContactsUI.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreMedia.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MediaAccessibility.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/ExternalAccessory.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Security.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/ModelIO.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/GLKit.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MetalKit.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/HomeKit.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/GameController.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AVKit.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreBluetooth.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AdSupport.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreMIDI.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Social.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/SystemConfiguration.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Accounts.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/OpenAL.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/NotificationCenter.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/ImageIO.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/PhotosUI.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MobileCoreServices.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AddressBook.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/NewsstandKit.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MessageUI.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/GameKit.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreLocation.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/QuartzCore.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/iAd.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreMotion.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/usr/include" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/7.3.0/include" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file:///Applications/Xcode 2.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer/Library/Frameworks/InterfaceBuilderKit.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer/Library/Frameworks/DTPerformanceSession.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Frameworks/XCTest.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/HealthKit.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/PassKit.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreAudioKit.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MultipeerConnectivity.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AssetsLibrary.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/WatchConnectivity.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreVideo.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/StoreKit.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/SceneKit.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/OpenGLES.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CFNetwork.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Accelerate.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Accelerate.framework/Frameworks/vImage.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Accelerate.framework/Frameworks/vecLib.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AddressBookUI.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/EventKit.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/WatchKit.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/GSS.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AudioUnit.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreSpotlight.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/LocalAuthentication.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/HealthKitUI.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Metal.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/VideoToolbox.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MediaToolbox.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Contacts.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/QuickLook.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/SafariServices.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/GameplayKit.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/WebKit.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CloudKit.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreImage.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/EventKitUI.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Photos.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MetalPerformanceShaders.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MediaPlayer.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AVFoundation.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/JavaScriptCore.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/PushKit.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreTelephony.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreText.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/ReplayKit.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/SpriteKit.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Twitter.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/NetworkExtension.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreAudio.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreData.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/UIKit.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Foundation.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MapKit.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/ContactsUI.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreMedia.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MediaAccessibility.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/ExternalAccessory.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Security.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/ModelIO.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/GLKit.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MetalKit.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/HomeKit.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/GameController.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AVKit.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreBluetooth.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AdSupport.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreMIDI.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Social.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/SystemConfiguration.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Accounts.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/OpenAL.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/NotificationCenter.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/ImageIO.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/PhotosUI.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MobileCoreServices.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AddressBook.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/NewsstandKit.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MessageUI.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/GameKit.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreLocation.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/QuartzCore.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/iAd.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreMotion.framework/Headers" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/usr/include" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/7.3.0/include" />
+          <root url="file:///Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>

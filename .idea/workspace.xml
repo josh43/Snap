@@ -1,0 +1,1612 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="203e6fe6-2375-4119-9d29-4c2b30739a14" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/Action button.imageset/Action button.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/Action button.imageset/Action button@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/Action button.imageset/Action button@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/Camera flip.imageset/Camera flip.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/Camera flip.imageset/Camera flip@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/Camera flip.imageset/Camera flip@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/Flash.imageset/Flash.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/Flash.imageset/Flash@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/Flash.imageset/Flash@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/Ghost + Rectangle 38.imageset/Ghost + Rectangle 38.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/Ghost + Rectangle 38.imageset/Ghost + Rectangle 38@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/Ghost + Rectangle 38.imageset/Ghost + Rectangle 38@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/Ghost-1.imageset/Ghost.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/Ghost-1.imageset/Ghost@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/Ghost-1.imageset/Ghost@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/Ghost.imageset/Ghost.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/Ghost.imageset/Ghost@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/Ghost.imageset/Ghost@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/Globe.imageset/Globe.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/Globe.imageset/Globe@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/Globe.imageset/Globe@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/PostToStory.imageset/PostToStory.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/PostToStory.imageset/PostToStory@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/PostToStory.imageset/PostToStory@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/SendButton.imageset/SendButton.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/SendButton.imageset/SendButton@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/SendButton.imageset/SendButton@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/StoryIcon.imageset/StoryIcon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/StoryIcon.imageset/StoryIcon@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/StoryIcon.imageset/StoryIcon@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/Talk bubble.imageset/Talk bubble.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/Talk bubble.imageset/Talk bubble@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/Talk bubble.imageset/Talk bubble@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/Timer.imageset/Timer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/Timer.imageset/Timer@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/Timer.imageset/Timer@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/X.imageset/X.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/X.imageset/X@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/X.imageset/X@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/camera icon purple.imageset/camera icon purple.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/camera icon purple.imageset/camera icon purple@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/camera icon purple.imageset/camera icon purple@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/camera icon-1.imageset/camera icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/camera icon-1.imageset/camera icon@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/camera icon-1.imageset/camera icon@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/checkedBox.imageset/checkedBox.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/checkedBox.imageset/checkedBox@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/checkedBox.imageset/checkedBox@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/purple + 3.imageset/purple + 3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/purple + 3.imageset/purple + 3@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/purple + 3.imageset/purple + 3@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/purple.imageset/purple.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/purple.imageset/purple@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/purple.imageset/purple@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/purpleFill.imageset/purpleFill.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/purpleFill.imageset/purpleFill@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/purpleFill.imageset/purpleFill@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/red square + 3.imageset/red square + 3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/red square + 3.imageset/red square + 3@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/red square + 3.imageset/red square + 3@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/red.imageset/red.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/red.imageset/red@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/red.imageset/red@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/redFill.imageset/redFill.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/redFill.imageset/redFill@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/redFill.imageset/redFill@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/sentAndSeenPurple.imageset/sentAndSeenPurple.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/sentAndSeenPurple.imageset/sentAndSeenPurple@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/sentAndSeenPurple.imageset/sentAndSeenPurple@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/sentAndSeenPurpleFill.imageset/sentAndSeenPurpleFill.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/sentAndSeenPurpleFill.imageset/sentAndSeenPurpleFill@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/sentAndSeenPurpleFill.imageset/sentAndSeenPurpleFill@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/sentAndSeenRed.imageset/sentAndSeenRed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/sentAndSeenRed.imageset/sentAndSeenRed@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/sentAndSeenRed.imageset/sentAndSeenRed@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/sentAndSeenRedFill.imageset/sentAndSeenRedFill.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/sentAndSeenRedFill.imageset/sentAndSeenRedFill@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/sentAndSeenRedFill.imageset/sentAndSeenRedFill@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/uncheckedBox.imageset/uncheckedBox.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/uncheckedBox.imageset/uncheckedBox@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/uncheckedBox.imageset/uncheckedBox@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/TextButton.imageset/TextButton.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/TextButton.imageset/TextButton@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/TextButton.imageset/TextButton@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/Undo.imageset/Undo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/Undo.imageset/Undo@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/Undo.imageset/Undo@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/add-user.imageset/add-user.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/arrow-point-to-right.imageset/arrow-point-to-right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/correct-mark.imageset/correct-mark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/cup.imageset/cup.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/delete-button.imageset/delete-button.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/info.imageset/info.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/phone-book.imageset/phone-book.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/settings.imageset/settings.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/user.imageset/user.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/leahy.imageset/leahy.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/nature/nat1.imageset/nat1.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/nature/nat2.imageset/nat2.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/nature/nat3.imageset/nat3.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/nature/nat4.imageset/nat4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/nature/nat5.imageset/nat5.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/nature/nat6.imageset/nat6.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/trailerPark/tbp2.imageset/tbp2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/trailerPark/tpb1.imageset/tpb1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/trailerPark/tpb3.imageset/tpb3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/trailerPark/tpb4.imageset/tpb4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trailerPark/trailerParkClip.mov" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AuxiliaryViewControllers/AccountCell.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AuxiliaryViewControllers/AccountCell.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AuxiliaryViewControllers/AccountCell.xib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AuxiliaryViewControllers/AccountSettingsTVC.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AuxiliaryViewControllers/AccountSettingsTVC.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/AddFriendTVC.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/AddFriendTVC.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/AddedMeTVC.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/AddedMeTVC.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/Image.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/Action button.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/Camera flip.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/Flash.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/Ghost + Rectangle 38.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/Ghost-1.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/Ghost.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/Globe.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/PostToStory.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/SendButton.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/StoryIcon.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/Talk bubble.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/Timer.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/X.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/camera icon purple.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/camera icon-1.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/checkedBox.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/purple + 3.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/purple.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/purpleFill.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/red square + 3.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/red.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/redFill.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/sentAndSeenPurple.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/sentAndSeenPurpleFill.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/sentAndSeenRed.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/sentAndSeenRedFill.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/GhostDir/uncheckedBox.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/TextButton.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/Undo.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/add-user.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/arrow-point-to-right.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/correct-mark.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/cup.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/delete-button.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/info.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/phone-book.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/settings.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/SettingsIcons/user.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/leahy.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/nature/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/nature/nat1.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/nature/nat2.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/nature/nat3.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/nature/nat4.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/nature/nat5.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/nature/nat6.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/trailerPark/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/trailerPark/tbp2.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/trailerPark/tpb1.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/trailerPark/tpb3.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Assets.xcassets/trailerPark/tpb4.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Command.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Command.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/ContentFinishedViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/ContentFinishedViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/CoreCreate.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/CoreCreate.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/CoreDelete.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/CoreDelete.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/CoreRead.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/CoreRead.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/CoreUpdate.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/CoreUpdate.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Delete.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Delete.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/FriendTVC.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/FriendTVC.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/FriendTableViewCell.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/FriendTableViewCell.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/FriendTableViewCell.xib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Get.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Get.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/GetHelper.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/GetHelper.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/HTTPHelper.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/HTTPHelper.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Main.storyboard" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Model.xcdatamodeld/Model.xcdatamodel/contents" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/MyFriendsTVC.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/MyFriendsTVC.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/PictureEditorView.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/PictureEditorView.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/PictureEditorView.xib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Post.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Post.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/SendToFriendTableViewCell.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/SendToFriendTableViewCell.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/SendToFriendTableViewCell.xib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/SendToUsersTVC.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/SendToUsersTVC.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/SnapCRUD/RestfulSnapCRUD.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/SnapCRUD/RestfulSnapCRUD.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/SnapCRUD/SnapCreate.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/SnapCRUD/SnapCreate.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/SnapCRUD/SnapDelete.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/SnapCRUD/SnapDelete.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/SnapCRUD/SnapRead.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/SnapCRUD/SnapRead.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/SnapCRUD/SnapUpdate.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/SnapCRUD/SnapUpdate.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/SnapCellControllers/ContentDisplayer.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/SnapCellControllers/ContentDisplayer.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/SnapCellControllers/PictureViewerInterface.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/SnapCellControllers/SnapViewerViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/SnapCellControllers/SnapViewerViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/SnapCellControllers/StorySnapViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/SnapCellControllers/StorySnapViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/SnapCellControllers/VideoLayer.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/SnapCellControllers/VideoLayer.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/SnapStoryViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/SnapStoryViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/SnapTableViewCell.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/SnapTableViewCell.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/SnapTableViewCell.xib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/SnapTransition.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/SnapTransitionDelegate.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/SnapTransitionDelegate.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/SnapchatViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/SnapchatViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/StoryTVC.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/StoryTVC.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/StoryTableViewCell.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/StoryTableViewCell.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/StoryTableViewCell.xib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/TestPackage/SnapTVCTester.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/TestPackage/SnapTVCTester.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/TestPackage/StoryTVCTester.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/TestPackage/StoryTVCTester.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/TextDelegateHandler.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/TextDelegateHandler.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewerTests/DeleteMethodTests.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewerTests/PostMethodTester.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewerTests/SendAndDeleteTest.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewerTests/SendAndReceiveSnapTVCTest.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewerTests/TestHelper.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewerTests/TestHelper.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicSnapPictureViewerUITests/TestSnapTVC.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Content+CoreDataProperties.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Content+CoreDataProperties.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Content.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Content.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Friend+CoreDataProperties.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Friend+CoreDataProperties.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Friend.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Friend.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoginAndRegisterViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoginAndRegisterViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Snap+CoreDataProperties.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Snap+CoreDataProperties.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Snap.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Snap.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SnapTVC.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SnapTVC.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Story+CoreDataProperties.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Story+CoreDataProperties.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Story.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Story.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UserInfo+CoreDataProperties.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UserInfo+CoreDataProperties.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UserInfo.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UserInfo.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Utility.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Utility.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BasicSnapPictureViewer.xcodeproj/project.pbxproj" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer.xcodeproj/project.pbxproj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BasicSnapPictureViewer.xcodeproj/xcuserdata/josh.xcuserdatad/xcschemes/BasicSnapPictureViewer.xcscheme" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer.xcodeproj/xcuserdata/josh.xcuserdatad/xcschemes/BasicSnapPictureViewer.xcscheme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BasicSnapPictureViewer.xcodeproj/xcuserdata/josh.xcuserdatad/xcschemes/xcschememanagement.plist" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer.xcodeproj/xcuserdata/josh.xcuserdatad/xcschemes/xcschememanagement.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BasicSnapPictureViewer/AppDelegate.h" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/AppDelegate.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BasicSnapPictureViewer/AppDelegate.m" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/AppDelegate.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BasicSnapPictureViewer/Base.lproj/Main.storyboard" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Base.lproj/Main.storyboard" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BasicSnapPictureViewer/Info.plist" afterPath="$PROJECT_DIR$/BasicSnapPictureViewer/Info.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BasicSnapPictureViewerTests/BasicSnapPictureViewerTests.m" afterPath="$PROJECT_DIR$/BasicSnapPictureViewerTests/BasicSnapPictureViewerTests.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BasicSnapPictureViewerUITests/BasicSnapPictureViewerUITests.m" afterPath="$PROJECT_DIR$/BasicSnapPictureViewerUITests/BasicSnapPictureViewerUITests.m" />
+    </list>
+    <ignored path="BasicSnapPictureViewer.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DockManager">
+    <window id="1">
+      <content type="file-editors">
+        <state>
+          <splitter split-orientation="horizontal" split-proportion="0.5203125">
+            <split-first>
+              <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+                <file leaf-file-name="SnapTVC.m" pinned="false" current-in-tab="false">
+                  <entry file="file://$PROJECT_DIR$/SnapTVC.m">
+                    <provider selected="true" editor-type-id="text-editor">
+                      <state relative-caret-position="3934">
+                        <caret line="281" column="0" selection-start-line="281" selection-start-column="0" selection-end-line="281" selection-end-column="0" />
+                        <folding>
+                          <element signature="e#0#2#0" expanded="false" />
+                          <element signature="e#10875#11103#0" expanded="false" />
+                        </folding>
+                      </state>
+                    </provider>
+                  </entry>
+                </file>
+                <file leaf-file-name="StoryTVC.m" pinned="false" current-in-tab="false">
+                  <entry file="file://$PROJECT_DIR$/BasicSnapPictureViewer/StoryTVC.m">
+                    <provider selected="true" editor-type-id="text-editor">
+                      <state relative-caret-position="1190">
+                        <caret line="85" column="36" selection-start-line="85" selection-start-column="36" selection-end-line="85" selection-end-column="36" />
+                        <folding />
+                      </state>
+                    </provider>
+                  </entry>
+                </file>
+                <file leaf-file-name="CoreCreate.m" pinned="false" current-in-tab="false">
+                  <entry file="file://$PROJECT_DIR$/BasicSnapPictureViewer/CoreCreate.m">
+                    <provider selected="true" editor-type-id="text-editor">
+                      <state relative-caret-position="322">
+                        <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+                        <folding />
+                      </state>
+                    </provider>
+                  </entry>
+                </file>
+                <file leaf-file-name="CoreUpdate.m" pinned="false" current-in-tab="true">
+                  <entry file="file://$PROJECT_DIR$/BasicSnapPictureViewer/CoreUpdate.m">
+                    <provider selected="true" editor-type-id="text-editor">
+                      <state relative-caret-position="280">
+                        <caret line="21" column="51" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="51" />
+                        <folding />
+                      </state>
+                    </provider>
+                  </entry>
+                </file>
+                <file leaf-file-name="CoreRead.m" pinned="false" current-in-tab="false">
+                  <entry file="file://$PROJECT_DIR$/BasicSnapPictureViewer/CoreRead.m">
+                    <provider selected="true" editor-type-id="text-editor">
+                      <state relative-caret-position="126">
+                        <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+                        <folding />
+                      </state>
+                    </provider>
+                  </entry>
+                </file>
+              </leaf>
+            </split-first>
+            <split-second>
+              <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+                <file leaf-file-name="StorySnapViewController.h" pinned="false" current-in-tab="false">
+                  <entry file="file://$PROJECT_DIR$/BasicSnapPictureViewer/SnapCellControllers/StorySnapViewController.h">
+                    <provider selected="true" editor-type-id="text-editor">
+                      <state relative-caret-position="336">
+                        <caret line="27" column="28" selection-start-line="27" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+                        <folding />
+                      </state>
+                    </provider>
+                  </entry>
+                </file>
+                <file leaf-file-name="StoryTableViewCell.m" pinned="false" current-in-tab="false">
+                  <entry file="file://$PROJECT_DIR$/BasicSnapPictureViewer/StoryTableViewCell.m">
+                    <provider selected="true" editor-type-id="text-editor">
+                      <state relative-caret-position="224">
+                        <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+                        <folding />
+                      </state>
+                    </provider>
+                  </entry>
+                </file>
+                <file leaf-file-name="StorySnapViewController.m" pinned="false" current-in-tab="false">
+                  <entry file="file://$PROJECT_DIR$/BasicSnapPictureViewer/SnapCellControllers/StorySnapViewController.m">
+                    <provider selected="true" editor-type-id="text-editor">
+                      <state relative-caret-position="-1050">
+                        <caret line="69" column="0" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+                        <folding />
+                      </state>
+                    </provider>
+                  </entry>
+                </file>
+                <file leaf-file-name="SnapTVC.m" pinned="false" current-in-tab="true">
+                  <entry file="file://$PROJECT_DIR$/SnapTVC.m">
+                    <provider selected="true" editor-type-id="text-editor">
+                      <state relative-caret-position="-1373">
+                        <caret line="144" column="4" selection-start-line="144" selection-start-column="4" selection-end-line="144" selection-end-column="4" />
+                        <folding>
+                          <element signature="e#0#2#0" expanded="false" />
+                          <element signature="e#10875#11103#0" expanded="false" />
+                        </folding>
+                      </state>
+                    </provider>
+                  </entry>
+                </file>
+                <file leaf-file-name="SnapViewerViewController.h" pinned="false" current-in-tab="false">
+                  <entry file="file://$PROJECT_DIR$/BasicSnapPictureViewer/SnapCellControllers/SnapViewerViewController.h">
+                    <provider selected="true" editor-type-id="text-editor">
+                      <state relative-caret-position="224">
+                        <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+                        <folding />
+                      </state>
+                    </provider>
+                  </entry>
+                </file>
+                <file leaf-file-name="ContentDisplayer.h" pinned="false" current-in-tab="false">
+                  <entry file="file://$PROJECT_DIR$/BasicSnapPictureViewer/SnapCellControllers/ContentDisplayer.h">
+                    <provider selected="true" editor-type-id="text-editor">
+                      <state relative-caret-position="322">
+                        <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
+                        <folding />
+                      </state>
+                    </provider>
+                  </entry>
+                </file>
+                <file leaf-file-name="ContentDisplayer.m" pinned="false" current-in-tab="false">
+                  <entry file="file://$PROJECT_DIR$/BasicSnapPictureViewer/SnapCellControllers/ContentDisplayer.m">
+                    <provider selected="true" editor-type-id="text-editor">
+                      <state relative-caret-position="27">
+                        <caret line="124" column="8" selection-start-line="124" selection-start-column="8" selection-end-line="124" selection-end-column="8" />
+                        <folding>
+                          <element signature="e#91#119#0" expanded="true" />
+                          <marker date="1469602234000" expanded="false" signature="99:158" ph="..." />
+                        </folding>
+                      </state>
+                    </provider>
+                  </entry>
+                </file>
+                <file leaf-file-name="SnapDelete.m" pinned="false" current-in-tab="false">
+                  <entry file="file://$PROJECT_DIR$/BasicSnapPictureViewer/SnapCRUD/SnapDelete.m">
+                    <provider selected="true" editor-type-id="text-editor">
+                      <state relative-caret-position="83">
+                        <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+                        <folding />
+                      </state>
+                    </provider>
+                  </entry>
+                </file>
+                <file leaf-file-name="MPMoviePlayerController.h" pinned="false" current-in-tab="false">
+                  <entry file="file:///Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MediaPlayer.framework/Headers/MPMoviePlayerController.h">
+                    <provider selected="true" editor-type-id="text-editor">
+                      <state relative-caret-position="1134">
+                        <caret line="81" column="11" selection-start-line="81" selection-start-column="11" selection-end-line="81" selection-end-column="11" />
+                        <folding />
+                      </state>
+                    </provider>
+                  </entry>
+                </file>
+              </leaf>
+            </split-second>
+          </splitter>
+        </state>
+      </content>
+    </window>
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="autoscrollToSource" value="true" />
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="iphoneos" />
+  <component name="FavoritesManager">
+    <favorites_list name="BasicSnapPictureViewer" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.4025157">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="LoginAndRegisterViewController.m" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/LoginAndRegisterViewController.m">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="-658">
+                  <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="AccountCell.h" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/AuxiliaryViewControllers/AccountCell.h">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="0">
+                  <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="AccountCell.m" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/AuxiliaryViewControllers/AccountCell.m">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="0">
+                  <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="AccountSettingsTVC.h" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/AuxiliaryViewControllers/AccountSettingsTVC.h">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="0">
+                  <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="AccountSettingsTVC.m" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/AuxiliaryViewControllers/AccountSettingsTVC.m">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="0">
+                  <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="FriendTableViewCell.h" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/BasicSnapPictureViewer/FriendTableViewCell.h">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="0">
+                  <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="FriendTableViewCell.m" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/BasicSnapPictureViewer/FriendTableViewCell.m">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="294">
+                  <caret line="133" column="22" selection-start-line="133" selection-start-column="22" selection-end-line="133" selection-end-column="22" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Content+CoreDataProperties.h" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Content+CoreDataProperties.h">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="322">
+                  <caret line="23" column="41" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="LoginAndRegisterViewController.h" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/LoginAndRegisterViewController.h">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="0">
+                  <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Friend+CoreDataProperties.h" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Friend+CoreDataProperties.h">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="308">
+                  <caret line="22" column="52" selection-start-line="22" selection-start-column="52" selection-end-line="22" selection-end-column="52" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="CoreUpdate.m" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/BasicSnapPictureViewer/CoreUpdate.m">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="-367">
+                  <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="SnapTransition.h" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/BasicSnapPictureViewer/SnapTransition.h">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="0">
+                  <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="CoreUpdate.h" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/BasicSnapPictureViewer/CoreUpdate.h">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="0">
+                  <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="UserInfo+CoreDataProperties.h" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/UserInfo+CoreDataProperties.h">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="448">
+                  <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="UserInfo.h" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/UserInfo.h">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="0">
+                  <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="UserInfo.m" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/UserInfo.m">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="0">
+                  <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Story+CoreDataProperties.m" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Story+CoreDataProperties.m">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="0">
+                  <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Story+CoreDataProperties.h" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Story+CoreDataProperties.h">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="90">
+                  <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="READMEORDONT copy.txt" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/BasicSnapPictureViewer/READMEORDONT copy.txt">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="0">
+                  <caret line="0" column="99" selection-start-line="0" selection-start-column="99" selection-end-line="0" selection-end-column="99" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="READMEORDONT.txt" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/READMEORDONT.txt">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="224">
+                  <caret line="16" column="82" selection-start-line="16" selection-start-column="82" selection-end-line="16" selection-end-column="82" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/AuxiliaryViewControllers/AccountSettingsTVC.m" />
+        <option value="$PROJECT_DIR$/Utility.h" />
+        <option value="$PROJECT_DIR$/BasicSnapPictureViewer/AppDelegate.m" />
+        <option value="$PROJECT_DIR$/Snap.h" />
+        <option value="$PROJECT_DIR$/BasicSnapPictureViewer/StoryTVC.m" />
+        <option value="$PROJECT_DIR$/BasicSnapPictureViewer/CoreDelete.m" />
+        <option value="$PROJECT_DIR$/BasicSnapPictureViewer/CoreUpdate.h" />
+        <option value="$PROJECT_DIR$/BasicSnapPictureViewer/SnapCRUD/SnapUpdate.h" />
+        <option value="$PROJECT_DIR$/BasicSnapPictureViewer/Command.m" />
+        <option value="$PROJECT_DIR$/LoginAndRegisterViewController.m" />
+        <option value="$PROJECT_DIR$/BasicSnapPictureViewer/SnapCRUD/SnapRead.h" />
+        <option value="$PROJECT_DIR$/BasicSnapPictureViewer/SnapCRUD/SnapRead.m" />
+        <option value="$PROJECT_DIR$/BasicSnapPictureViewer/SnapCRUD/SnapCreate.m" />
+        <option value="$PROJECT_DIR$/BasicSnapPictureViewer/SnapCRUD/RestfulSnapCRUD.m" />
+        <option value="$PROJECT_DIR$/Content.m" />
+        <option value="$PROJECT_DIR$/BasicSnapPictureViewer/SnapTransitionDelegate.m" />
+        <option value="$PROJECT_DIR$/BasicSnapPictureViewer/CoreRead.m" />
+        <option value="$PROJECT_DIR$/BasicSnapPictureViewer/CoreUpdate.m" />
+        <option value="$USER_HOME$/Downloads/LearningCoreDataForiOS_AllSourceCode/Grocery Dude/Grocery Dude/CoreDataHelper.m" />
+        <option value="$USER_HOME$/Downloads/LearningCoreDataForiOS_AllSourceCode/Grocery Dude/CoreDataTVC.m" />
+        <option value="$PROJECT_DIR$/BasicSnapPictureViewer/FriendTableViewCell.m" />
+        <option value="$PROJECT_DIR$/../SnapchatLayout/SnapchatLayout/SettingsViewController.m" />
+        <option value="$PROJECT_DIR$/BasicSnapPictureViewer/Get.m" />
+        <option value="$PROJECT_DIR$/BasicSnapPictureViewer/Post.m" />
+        <option value="$PROJECT_DIR$/BasicSnapPictureViewer/SnapCRUD/RestfulSnapCRUD.h" />
+        <option value="$PROJECT_DIR$/BasicSnapPictureViewer/SnapCRUD/SnapCreate.h" />
+        <option value="$PROJECT_DIR$/BasicSnapPictureViewer/SnapCRUD/SnapUpdate.m" />
+        <option value="$PROJECT_DIR$/../SnapchatLayout/SnapchatLayout/TabBarObserver.m" />
+        <option value="$PROJECT_DIR$/BasicSnapPictureViewer/TextDelegateHandler.m" />
+        <option value="$PROJECT_DIR$/BasicSnapPictureViewer/TestPackage/SnapTVCTester.m" />
+        <option value="$PROJECT_DIR$/BasicSnapPictureViewer/TestPackage/StoryTVCTester.m" />
+        <option value="$PROJECT_DIR$/BasicSnapPictureViewer/AddFriendTVC.m" />
+        <option value="$PROJECT_DIR$/BasicSnapPictureViewer/FriendTVC.m" />
+        <option value="$PROJECT_DIR$/BasicSnapPictureViewer/MyFriendsTVC.m" />
+        <option value="$PROJECT_DIR$/BasicSnapPictureViewer/SnapCellControllers/StorySnapViewController.h" />
+        <option value="$PROJECT_DIR$/SnapTVC.m" />
+        <option value="$PROJECT_DIR$/../SnapchatLayout/SnapchatLayout/MainViewController.m" />
+        <option value="$PROJECT_DIR$/BasicSnapPictureViewer/HTTPHelper.h" />
+        <option value="$PROJECT_DIR$/BasicSnapPictureViewer/HTTPHelper.m" />
+        <option value="$PROJECT_DIR$/BasicSnapPictureViewer/READMEORDONT.txt" />
+        <option value="$PROJECT_DIR$/BasicSnapPictureViewer/Command.h" />
+        <option value="$PROJECT_DIR$/BasicSnapPictureViewer/SnapCRUD/READMEORDONT.txt" />
+        <option value="$PROJECT_DIR$/BasicSnapPictureViewer/READMEORDONT copy.txt" />
+        <option value="$PROJECT_DIR$/BasicSnapPictureViewer/Info" />
+        <option value="$PROJECT_DIR$/BasicSnapPictureViewer/READMEORDONT_CORE_DATA.txt" />
+        <option value="$PROJECT_DIR$/UserInfo+CoreDataProperties.h" />
+        <option value="$PROJECT_DIR$/Snap+CoreDataProperties.h" />
+        <option value="$PROJECT_DIR$/Friend+CoreDataProperties.h" />
+        <option value="$PROJECT_DIR$/Content+CoreDataProperties.h" />
+        <option value="$PROJECT_DIR$/Story+CoreDataProperties.h" />
+        <option value="$PROJECT_DIR$/READMEORDONT.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="OCFindUsagesOptions" text="false" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1920" />
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="979" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Probable bugsJavaScript</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>C/C++</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BasicSnapPictureViewer" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BasicSnapPictureViewer" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Products" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BasicSnapPictureViewer" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BasicSnapPictureViewer" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BasicSnapPictureViewer" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BasicSnapPictureViewer" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TVC" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BasicSnapPictureViewer" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BasicSnapPictureViewer" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TVC" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FriendTableViewCells" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BasicSnapPictureViewer" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BasicSnapPictureViewer" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MiddleCameraAndSettingsView" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BasicSnapPictureViewer" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BasicSnapPictureViewer" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LoginAndRegister" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BasicSnapPictureViewer" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BasicSnapPictureViewer" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Generic Core Data Classes" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BasicSnapPictureViewer" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BasicSnapPictureViewer" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CustomeViewTransitions" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BasicSnapPictureViewer" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BasicSnapPictureViewer" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Core Data" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Cidr.FilesView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="OBJC.PRESERVED_TARGET_SELECTION" value="BasicSnapPictureViewer" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="settings.editor.selected.configurable" value="vcs.CVS" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="js.buildTools.grunt.grunt-cli.package" value="" />
+  </component>
+  <component name="RunManager" selected="Application.BasicSnapPictureViewer">
+    <configuration default="true" type="AppleRunConfiguration" factoryName="Application" WORKING_DIR="" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BasicSnapPictureViewer" TARGET_NAME="BasicSnapPictureViewer" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="BasicSnapPictureViewer" RUN_TARGET_NAME="BasicSnapPictureViewer" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+      <method />
+    </configuration>
+    <configuration default="true" type="ChromiumRemoteDebugType" factoryName="Chromium Remote">
+      <method />
+    </configuration>
+    <configuration default="true" type="CompoundRunConfigurationType" factoryName="Compound Run Configuration">
+      <method />
+    </configuration>
+    <configuration default="true" type="FirefoxRemoteDebugType" factoryName="Firefox Remote">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="OCGoogleTestRunConfigurationType" factoryName="Google Test" WORKING_DIR="" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BasicSnapPictureViewer" TARGET_NAME="BasicSnapPictureViewer" CONFIG_NAME="Debug" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="OCUnitRunConfiguration" factoryName="XCTest/Kiwi" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BasicSnapPictureViewer" TARGET_NAME="BasicSnapPictureViewerTests" CONFIG_NAME="Debug" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.grunt" factoryName="Grunt.js">
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="BasicSnapPictureViewer" type="AppleRunConfiguration" factoryName="Application" WORKING_DIR="" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BasicSnapPictureViewer" TARGET_NAME="BasicSnapPictureViewer" CONFIG_NAME="Debug" SCHEME_NAME="BasicSnapPictureViewer" RUN_TARGET_PROJECT_NAME="BasicSnapPictureViewer" RUN_TARGET_NAME="BasicSnapPictureViewer" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Application.BasicSnapPictureViewer" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="203e6fe6-2375-4119-9d29-4c2b30739a14" name="Default" comment="" />
+      <created>1467745566777</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1467745566777</updated>
+      <workItem from="1469307297321" duration="29000" />
+      <workItem from="1469307339836" duration="30548000" />
+      <workItem from="1469407835425" duration="68536000" />
+      <workItem from="1469650057473" duration="10640000" />
+      <workItem from="1469675226322" duration="13185000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="122938000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1920" y="23" width="1920" height="979" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3283237" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33101046" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27052024" sideWeight="0.5018431" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24277456" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290735" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20326488" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37456647" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2901734" sideWeight="0.49815693" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/BasicSnapPictureViewer/TextDelegateHandler.m</url>
+          <line>83</line>
+          <option name="timeStamp" value="348" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/BasicSnapPictureViewer/AVCam/AAPLCameraViewController.m</url>
+          <line>722</line>
+          <option name="timeStamp" value="400" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/BasicSnapPictureViewerTests/PostMethodTester.m</url>
+          <line>147</line>
+          <option name="timeStamp" value="413" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/BasicSnapPictureViewerTests/BasicSnapPictureViewerTests.m</url>
+          <line>105</line>
+          <option name="timeStamp" value="415" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/BasicSnapPictureViewerTests/SendAndDeleteTest.m</url>
+          <line>69</line>
+          <option name="timeStamp" value="418" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/BasicSnapPictureViewerTests/PostMethodTester.m</url>
+          <line>173</line>
+          <option name="timeStamp" value="426" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/BasicSnapPictureViewer/FriendTableViewCell.m</url>
+          <line>185</line>
+          <option name="timeStamp" value="465" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/../SnapchatLayout/SnapchatLayout/MainViewController.m</url>
+          <line>233</line>
+          <option name="timeStamp" value="556" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/SnapTVC.m</url>
+          <line>281</line>
+          <option name="timeStamp" value="627" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="657" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="AppleRunConfiguration">
+        <watch expression="self.storyboard" language="ObjectiveC" />
+        <watch expression="self" language="ObjectiveC" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/BasicSnapPictureViewer/Post.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicSnapPictureViewer/Rest.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicSnapPictureViewer/Post.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-322">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicSnapPictureViewer/SnapCRUD/SnapCreate.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicSnapPictureViewer/SnapCRUD/SnapDelete.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicSnapPictureViewer/SnapCRUD/SnapCreate.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1456">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicSnapPictureViewer/SnapCRUD/SnapRead.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicSnapPictureViewer/SnapCRUD/SnapRead.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1022">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicSnapPictureViewer/SnapCRUD/SnapUpdate.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicSnapPictureViewer/SnapCRUD/READMEORDONT.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/LearningCoreDataForiOS_AllSourceCode/Grocery Dude/CoreDataTVC.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/LearningCoreDataForiOS_AllSourceCode/Grocery Dude/CoreDataTVC.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/LearningCoreDataForiOS_AllSourceCode/Grocery Dude/Grocery Dude/CoreDataHelper.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/LearningCoreDataForiOS_AllSourceCode/Grocery Dude/Grocery Dude/CoreDataHelper.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicSnapPictureViewer/CoreCreate.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicSnapPictureViewer/CoreCreate.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicSnapPictureViewer/CoreCRUD.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicSnapPictureViewer/CoreDelete.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicSnapPictureViewer/CoreDelete.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-409">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicSnapPictureViewer/CoreRead.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicSnapPictureViewer/CoreRead.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicSnapPictureViewer/CoreUpdate.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicSnapPictureViewer/CoreUpdate.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-367">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicSnapPictureViewer/SnapTransition.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicSnapPictureViewer/Info">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="32" selection-start-line="0" selection-start-column="32" selection-end-line="0" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicSnapPictureViewer/READMEORDONT_CORE_DATA.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UserInfo+CoreDataProperties.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UserInfo.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UserInfo.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Story+CoreDataProperties.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Snap+CoreDataProperties.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+          <folding>
+            <element signature="e#387#405#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Snap+CoreDataProperties.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="23" column="52" selection-start-line="23" selection-start-column="52" selection-end-line="23" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Friend+CoreDataProperties.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Friend+CoreDataProperties.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="22" column="52" selection-start-line="22" selection-start-column="52" selection-end-line="22" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Content+CoreDataProperties.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="23" column="41" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Content+CoreDataProperties.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LoginAndRegisterViewController.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Content.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LoginAndRegisterViewController.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-658">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Content.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="66" column="0" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+          <folding>
+            <element signature="e#135#154#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AuxiliaryViewControllers/AccountCell.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Friend.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AuxiliaryViewControllers/AccountCell.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Friend.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="e#344#507#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AuxiliaryViewControllers/AccountSettingsTVC.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AuxiliaryViewControllers/AccountSettingsTVC.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicSnapPictureViewer/FriendTableViewCell.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Story+CoreDataProperties.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicSnapPictureViewer/READMEORDONT copy.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="99" selection-start-line="0" selection-start-column="99" selection-end-line="0" selection-end-column="99" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/READMEORDONT.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="16" column="82" selection-start-line="16" selection-start-column="82" selection-end-line="16" selection-end-column="82" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicSnapPictureViewer/FriendTableViewCell.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="133" column="22" selection-start-line="133" selection-start-column="22" selection-end-line="133" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

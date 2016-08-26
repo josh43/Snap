@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="10117" systemVersion="15F34" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
+        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
+        <capability name="Constraints with non-1.0 multipliers" minToolsVersion="5.1"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="sendToFriendTableViewCell" rowHeight="70" id="Q8P-zt-yB4" customClass="SendToFriendTableViewCell">
+            <rect key="frame" x="0.0" y="0.0" width="321" height="64"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="Q8P-zt-yB4" id="9mI-cn-I5Z">
+                <rect key="frame" x="0.0" y="0.0" width="321" height="63"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="tco-p4-NGP">
+                        <rect key="frame" x="38" y="21" width="42" height="21"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                        <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Osv-Lx-LO8">
+                        <rect key="frame" x="227" y="0.0" width="88" height="63"/>
+                        <state key="normal" image="uncheckedBox"/>
+                        <connections>
+                            <action selector="buttonPressed:" destination="Q8P-zt-yB4" eventType="touchUpInside" id="n2O-L0-IT9"/>
+                        </connections>
+                    </button>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="Osv-Lx-LO8" firstAttribute="centerY" secondItem="9mI-cn-I5Z" secondAttribute="centerY" id="1DN-aq-Nq4"/>
+                    <constraint firstItem="Osv-Lx-LO8" firstAttribute="centerX" secondItem="9mI-cn-I5Z" secondAttribute="centerX" multiplier="5/3" id="7hV-Cr-DWW"/>
+                    <constraint firstItem="Osv-Lx-LO8" firstAttribute="height" secondItem="9mI-cn-I5Z" secondAttribute="height" id="ATY-tp-2GH"/>
+                    <constraint firstItem="Osv-Lx-LO8" firstAttribute="width" secondItem="9mI-cn-I5Z" secondAttribute="width" multiplier="1/2" id="Ho0-V6-sxn"/>
+                    <constraint firstItem="tco-p4-NGP" firstAttribute="centerY" secondItem="Osv-Lx-LO8" secondAttribute="centerY" id="NN6-AZ-bck"/>
+                    <constraint firstItem="tco-p4-NGP" firstAttribute="leading" secondItem="9mI-cn-I5Z" secondAttribute="leadingMargin" constant="30" id="r5z-v6-LoQ"/>
+                </constraints>
+            </tableViewCellContentView>
+            <connections>
+                <outlet property="button" destination="Osv-Lx-LO8" id="pfp-N5-bl8"/>
+                <outlet property="label" destination="tco-p4-NGP" id="Dot-gR-zSW"/>
+            </connections>
+            <point key="canvasLocation" x="252.5" y="300"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="uncheckedBox" width="20" height="19"/>
+    </resources>
+</document>

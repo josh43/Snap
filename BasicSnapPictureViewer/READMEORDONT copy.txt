@@ -1,0 +1,1 @@
+These are generic core data classes used to store the data I want to They should be HIGHLY REUSABLE
