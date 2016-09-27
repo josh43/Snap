@@ -2,14 +2,14 @@
 
 Doxygen was recently added 
 ```
-@ http://snap-jrm43.rhcloud.com/
+http://snap-jrm43.rhcloud.com/
 ```
 
 Although it is not picking up my descriptions hopefully I'll find out why soon
 
 
 SnapClone is an iOS app written in Objective-C that mimicks the very popular snapchat
-Some of the functionality includes
+and some of the functionality includes
 
   - Users can send other users snaps
   - Users can post content to their story
@@ -24,15 +24,15 @@ Some of the functionality includes
 
 ### How it works
 
-Dillinger uses a number of open source projects to work properly:
-
 * [Node.js] - Server
 * [MongoDB] - awesome nosql database
 * [Express] - fast node.js network app framework 
 * [Objective-C] - language used to write the iOS application
 * [REST] - architectural style used for smooth communication
 * [OpenShift] - server is deployed using the OpenShift services
+
 ### Tools used
+
 * [AppCode] - a great Objective-C IDE that allows for rapid code completion and generation
 * [WebStorm] - JavaScript IDE
 * [XCode] - Apple's IDE
