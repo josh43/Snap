@@ -38,6 +38,11 @@ and some of the functionality includes
 * [XCode] - Apple's IDE
 * [Sublime] - Simple and clean text editor
 
+### Some images
+
+![snapPic](http://snap-jrm43.rhcloud.com/Screen%20Shot%202016-09-22%20at%2011.21.01%20PM.png)
+![inceptionPic](http://snap-jrm43.rhcloud.com/Screen%20Shot%202016-09-22%20at%2011.24.27%20PM.png)
+
 ### Installation
 
 ```sh
