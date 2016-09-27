@@ -1,0 +1,124 @@
+\hypertarget{interface_story_snap_view_controller}{}\section{Story\+Snap\+View\+Controller Class Reference}
+\label{interface_story_snap_view_controller}\index{Story\+Snap\+View\+Controller@{Story\+Snap\+View\+Controller}}
+
+
+{\ttfamily \#import $<$Story\+Snap\+View\+Controller.\+h$>$}
+
+Inheritance diagram for Story\+Snap\+View\+Controller\+:\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[height=2.000000cm]{interface_story_snap_view_controller}
+\end{center}
+\end{figure}
+\subsection*{Instance Methods}
+\begin{DoxyCompactItemize}
+\item 
+(instancetype) -\/ \hyperlink{interface_story_snap_view_controller_a68cc9ae68e9c4c500b5f1a10460e592c}{init\+With\+Frame\+:and\+Data\+:with\+Content\+Type\+:and\+Url\+:or\+With\+Snap\+:and\+Story\+:}
+\item 
+(instancetype) -\/ \hyperlink{interface_story_snap_view_controller_a2a833b5127655faabdcd388e295bbeeb}{init}
+\item 
+(void) -\/ \hyperlink{interface_story_snap_view_controller_a200191dfbc2ff52cd6d279581ceb1d1a}{start}
+\end{DoxyCompactItemize}
+\subsection*{Properties}
+\begin{DoxyCompactItemize}
+\item 
+\hyperlink{interface_content_displayer}{Content\+Displayer} $\ast$ \hyperlink{interface_story_snap_view_controller_a1c5dae46de695864b887191fe61187c2}{content\+Displayer}
+\item 
+U\+I\+Text\+Field $\ast$ \hyperlink{interface_story_snap_view_controller_ab62e3985da2d4f7f337a912bf235a75c}{text\+Field}
+\item 
+N\+S\+Timer $\ast$ \hyperlink{interface_story_snap_view_controller_a57a20333a472a80cb8c02887b5f8f243}{timer}
+\item 
+\hyperlink{interface_story}{Story} $\ast$ \hyperlink{interface_story_snap_view_controller_a3be8c054b1ebd79ba1462b0057a5aeb4}{story}
+\item 
+B\+O\+OL \hyperlink{interface_story_snap_view_controller_a54242d1a6ce39379b1adf54866e5fdea}{should\+Decrement}
+\item 
+int \hyperlink{interface_story_snap_view_controller_a24797951ede1ab1ca41c510bb4ead648}{current\+Picture\+In\+List}
+\item 
+int \hyperlink{interface_story_snap_view_controller_a20b070ba519dc314663e6518858f0ac4}{current\+Picture\+View\+Time}
+\item 
+id$<$ Story\+Viewer\+Delegate $>$ \hyperlink{interface_story_snap_view_controller_a8364d923054951348b8071a6773649c3}{completion\+Delegate}
+\end{DoxyCompactItemize}
+
+
+\subsection{Method Documentation}
+\hypertarget{interface_story_snap_view_controller_a2a833b5127655faabdcd388e295bbeeb}{}\label{interface_story_snap_view_controller_a2a833b5127655faabdcd388e295bbeeb} 
+\index{Story\+Snap\+View\+Controller@{Story\+Snap\+View\+Controller}!init@{init}}
+\index{init@{init}!Story\+Snap\+View\+Controller@{Story\+Snap\+View\+Controller}}
+\subsubsection{\texorpdfstring{init()}{init()}}
+{\footnotesize\ttfamily -\/ (instancetype) init \begin{DoxyParamCaption}{ }\end{DoxyParamCaption}}
+
+\hypertarget{interface_story_snap_view_controller_a68cc9ae68e9c4c500b5f1a10460e592c}{}\label{interface_story_snap_view_controller_a68cc9ae68e9c4c500b5f1a10460e592c} 
+\index{Story\+Snap\+View\+Controller@{Story\+Snap\+View\+Controller}!init\+With\+Frame\+:and\+Data\+:with\+Content\+Type\+:and\+Url\+:or\+With\+Snap\+:and\+Story\+:@{init\+With\+Frame\+:and\+Data\+:with\+Content\+Type\+:and\+Url\+:or\+With\+Snap\+:and\+Story\+:}}
+\index{init\+With\+Frame\+:and\+Data\+:with\+Content\+Type\+:and\+Url\+:or\+With\+Snap\+:and\+Story\+:@{init\+With\+Frame\+:and\+Data\+:with\+Content\+Type\+:and\+Url\+:or\+With\+Snap\+:and\+Story\+:}!Story\+Snap\+View\+Controller@{Story\+Snap\+View\+Controller}}
+\subsubsection{\texorpdfstring{init\+With\+Frame\+:and\+Data\+:with\+Content\+Type\+:and\+Url\+:or\+With\+Snap\+:and\+Story\+:()}{initWithFrame:andData:withContentType:andUrl:orWithSnap:andStory:()}}
+{\footnotesize\ttfamily -\/ (instancetype) init\+With\+Frame\+: \begin{DoxyParamCaption}\item[{(C\+G\+Rect)}]{frame }\item[{andData:(N\+S\+Data $\ast$)}]{data }\item[{withContentType:(int)}]{content\+\_\+type }\item[{andUrl:(N\+S\+U\+RL $\ast$)}]{url }\item[{orWithSnap:(\hyperlink{interface_snap}{Snap} $\ast$)}]{snap }\item[{andStory:(\hyperlink{interface_story}{Story} $\ast$)}]{story }\end{DoxyParamCaption}}
+
+{\bfseries Initial value\+:}
+\begin{DoxyCode}
+\{
+
+    BOOL haveNoPlayedYet
+\end{DoxyCode}
+\hypertarget{interface_story_snap_view_controller_a200191dfbc2ff52cd6d279581ceb1d1a}{}\label{interface_story_snap_view_controller_a200191dfbc2ff52cd6d279581ceb1d1a} 
+\index{Story\+Snap\+View\+Controller@{Story\+Snap\+View\+Controller}!start@{start}}
+\index{start@{start}!Story\+Snap\+View\+Controller@{Story\+Snap\+View\+Controller}}
+\subsubsection{\texorpdfstring{start()}{start()}}
+{\footnotesize\ttfamily -\/ (void) start \begin{DoxyParamCaption}{ }\end{DoxyParamCaption}}
+
+
+
+\subsection{Property Documentation}
+\hypertarget{interface_story_snap_view_controller_a8364d923054951348b8071a6773649c3}{}\label{interface_story_snap_view_controller_a8364d923054951348b8071a6773649c3} 
+\index{Story\+Snap\+View\+Controller@{Story\+Snap\+View\+Controller}!completion\+Delegate@{completion\+Delegate}}
+\index{completion\+Delegate@{completion\+Delegate}!Story\+Snap\+View\+Controller@{Story\+Snap\+View\+Controller}}
+\subsubsection{\texorpdfstring{completion\+Delegate}{completionDelegate}}
+{\footnotesize\ttfamily -\/ (id$<$Story\+Viewer\+Delegate$>$) completion\+Delegate\hspace{0.3cm}{\ttfamily [read]}, {\ttfamily [write]}, {\ttfamily [nonatomic]}, {\ttfamily [weak]}}
+
+\hypertarget{interface_story_snap_view_controller_a1c5dae46de695864b887191fe61187c2}{}\label{interface_story_snap_view_controller_a1c5dae46de695864b887191fe61187c2} 
+\index{Story\+Snap\+View\+Controller@{Story\+Snap\+View\+Controller}!content\+Displayer@{content\+Displayer}}
+\index{content\+Displayer@{content\+Displayer}!Story\+Snap\+View\+Controller@{Story\+Snap\+View\+Controller}}
+\subsubsection{\texorpdfstring{content\+Displayer}{contentDisplayer}}
+{\footnotesize\ttfamily -\/ (\hyperlink{interface_content_displayer}{Content\+Displayer}$\ast$) content\+Displayer\hspace{0.3cm}{\ttfamily [read]}, {\ttfamily [write]}, {\ttfamily [nonatomic]}, {\ttfamily [strong]}}
+
+\hypertarget{interface_story_snap_view_controller_a24797951ede1ab1ca41c510bb4ead648}{}\label{interface_story_snap_view_controller_a24797951ede1ab1ca41c510bb4ead648} 
+\index{Story\+Snap\+View\+Controller@{Story\+Snap\+View\+Controller}!current\+Picture\+In\+List@{current\+Picture\+In\+List}}
+\index{current\+Picture\+In\+List@{current\+Picture\+In\+List}!Story\+Snap\+View\+Controller@{Story\+Snap\+View\+Controller}}
+\subsubsection{\texorpdfstring{current\+Picture\+In\+List}{currentPictureInList}}
+{\footnotesize\ttfamily -\/ (int) current\+Picture\+In\+List\hspace{0.3cm}{\ttfamily [read]}, {\ttfamily [write]}, {\ttfamily [nonatomic]}, {\ttfamily [assign]}}
+
+\hypertarget{interface_story_snap_view_controller_a20b070ba519dc314663e6518858f0ac4}{}\label{interface_story_snap_view_controller_a20b070ba519dc314663e6518858f0ac4} 
+\index{Story\+Snap\+View\+Controller@{Story\+Snap\+View\+Controller}!current\+Picture\+View\+Time@{current\+Picture\+View\+Time}}
+\index{current\+Picture\+View\+Time@{current\+Picture\+View\+Time}!Story\+Snap\+View\+Controller@{Story\+Snap\+View\+Controller}}
+\subsubsection{\texorpdfstring{current\+Picture\+View\+Time}{currentPictureViewTime}}
+{\footnotesize\ttfamily -\/ (int) current\+Picture\+View\+Time\hspace{0.3cm}{\ttfamily [read]}, {\ttfamily [write]}, {\ttfamily [nonatomic]}, {\ttfamily [assign]}}
+
+\hypertarget{interface_story_snap_view_controller_a54242d1a6ce39379b1adf54866e5fdea}{}\label{interface_story_snap_view_controller_a54242d1a6ce39379b1adf54866e5fdea} 
+\index{Story\+Snap\+View\+Controller@{Story\+Snap\+View\+Controller}!should\+Decrement@{should\+Decrement}}
+\index{should\+Decrement@{should\+Decrement}!Story\+Snap\+View\+Controller@{Story\+Snap\+View\+Controller}}
+\subsubsection{\texorpdfstring{should\+Decrement}{shouldDecrement}}
+{\footnotesize\ttfamily -\/ (B\+O\+OL) should\+Decrement\hspace{0.3cm}{\ttfamily [read]}, {\ttfamily [write]}, {\ttfamily [nonatomic]}, {\ttfamily [assign]}}
+
+\hypertarget{interface_story_snap_view_controller_a3be8c054b1ebd79ba1462b0057a5aeb4}{}\label{interface_story_snap_view_controller_a3be8c054b1ebd79ba1462b0057a5aeb4} 
+\index{Story\+Snap\+View\+Controller@{Story\+Snap\+View\+Controller}!story@{story}}
+\index{story@{story}!Story\+Snap\+View\+Controller@{Story\+Snap\+View\+Controller}}
+\subsubsection{\texorpdfstring{story}{story}}
+{\footnotesize\ttfamily -\/ (\hyperlink{interface_story}{Story}$\ast$) story\hspace{0.3cm}{\ttfamily [read]}, {\ttfamily [write]}, {\ttfamily [nonatomic]}, {\ttfamily [weak]}}
+
+\hypertarget{interface_story_snap_view_controller_ab62e3985da2d4f7f337a912bf235a75c}{}\label{interface_story_snap_view_controller_ab62e3985da2d4f7f337a912bf235a75c} 
+\index{Story\+Snap\+View\+Controller@{Story\+Snap\+View\+Controller}!text\+Field@{text\+Field}}
+\index{text\+Field@{text\+Field}!Story\+Snap\+View\+Controller@{Story\+Snap\+View\+Controller}}
+\subsubsection{\texorpdfstring{text\+Field}{textField}}
+{\footnotesize\ttfamily -\/ (U\+I\+Text\+Field$\ast$) text\+Field\hspace{0.3cm}{\ttfamily [read]}, {\ttfamily [write]}, {\ttfamily [nonatomic]}, {\ttfamily [strong]}}
+
+\hypertarget{interface_story_snap_view_controller_a57a20333a472a80cb8c02887b5f8f243}{}\label{interface_story_snap_view_controller_a57a20333a472a80cb8c02887b5f8f243} 
+\index{Story\+Snap\+View\+Controller@{Story\+Snap\+View\+Controller}!timer@{timer}}
+\index{timer@{timer}!Story\+Snap\+View\+Controller@{Story\+Snap\+View\+Controller}}
+\subsubsection{\texorpdfstring{timer}{timer}}
+{\footnotesize\ttfamily -\/ (N\+S\+Timer$\ast$) timer\hspace{0.3cm}{\ttfamily [read]}, {\ttfamily [write]}, {\ttfamily [nonatomic]}, {\ttfamily [strong]}}
+
+
+
+The documentation for this class was generated from the following files\+:\begin{DoxyCompactItemize}
+\item 
+Snap\+Main\+Dir/\+T\+V\+C/\+Snap\+T\+V\+Controllers/\+Snap\+Cell\+Controllers/\hyperlink{_story_snap_view_controller_8h}{Story\+Snap\+View\+Controller.\+h}\item 
+Snap\+Main\+Dir/\+T\+V\+C/\+Snap\+T\+V\+Controllers/\+Snap\+Cell\+Controllers/\hyperlink{_story_snap_view_controller_8m}{Story\+Snap\+View\+Controller.\+m}\end{DoxyCompactItemize}

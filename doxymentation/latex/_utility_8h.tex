@@ -1,0 +1,290 @@
+\hypertarget{_utility_8h}{}\section{Utility.\+h File Reference}
+\label{_utility_8h}\index{Utility.\+h@{Utility.\+h}}
+{\ttfamily \#import $<$Quartz\+Core/\+Quartz\+Core.\+h$>$}\newline
+{\ttfamily \#import $<$U\+I\+Kit/\+U\+I\+Kit.\+h$>$}\newline
+{\ttfamily \#import $<$Core\+Foundation/\+Core\+Foundation.\+h$>$}\newline
+\subsection*{Macros}
+\begin{DoxyCompactItemize}
+\item 
+\#define \hyperlink{_utility_8h_af9ae9267cdb998b8b7d13e2d5d1d6b64}{debugging}~1
+\item 
+\#define \hyperlink{_utility_8h_afe0534ca994b08a0ec5edf614aa48e9c}{verbose}
+\item 
+\#define \hyperlink{_utility_8h_a57e207fc3e56673d5da475e62f2dc8b0}{log\+Method}()~N\+S\+Log(@\char`\"{}Running \%@ \textquotesingle{}\%@\textquotesingle{}\char`\"{}, self.\+class, N\+S\+String\+From\+Selector(\+\_\+cmd));
+\item 
+\#define \hyperlink{_utility_8h_a1c375cf270a74960091475eca5d7498f}{error\+Message}(x)~N\+S\+Log(@\char`\"{}\%@\char`\"{},x);
+\item 
+\#define \hyperlink{_utility_8h_acd673a5e37390c28a2c4192130af6bd7}{S\+N\+A\+P\+\_\+\+G\+R\+A\+Y\+\_\+\+C\+O\+L\+OR}~\mbox{[}U\+I\+Color color\+With\+Red\+:248 green\+:248 blue\+:248 alpha\+:1.\+0\mbox{]}
+\item 
+\#define \hyperlink{_utility_8h_ac1a7ce1cf0779277dc0a5edf36763e3a}{create\+Unique\+Movie\+Url}(url)
+\item 
+\#define \hyperlink{_utility_8h_aefc4fbd5c994dd77ffc1e454bd519ba2}{load\+View\+Controller}(name)~\mbox{[}\mbox{[}U\+I\+Storyboard storyboard\+With\+Name\+:@\char`\"{}Main\char`\"{} bundle\+:nil\mbox{]}instantiate\+View\+Controller\+With\+Identifier\+:name\mbox{]}
+\item 
+\#define \hyperlink{_utility_8h_a6e3814a867e03a2cdd7090c007dd690f}{load\+Nib\+Named}(name)~\mbox{[}\mbox{[}N\+S\+Bundle main\+Bundle\mbox{]} load\+Nib\+Named\+:name owner\+:self options\+:nil\mbox{]}\mbox{[}0\mbox{]}
+\item 
+\#define \hyperlink{_utility_8h_af8c573d5a634c29cfa59490cce6d0b6a}{dispatch\+Async\+Main\+Queue}(x)~dispatch\+\_\+async(dispatch\+\_\+get\+\_\+main\+\_\+queue(),$^\wedge$\{x\})
+\item 
+\#define \hyperlink{_utility_8h_af8d7074f13890efd6edde7556a717e23}{set\+Refresh\+Controller}(refresh\+Control,  target,  method)
+\item 
+\#define \hyperlink{_utility_8h_a50b202ac97294cb483385f9cf10a6ea2}{get\+Resource}(string\+Path\+To\+Set,  resource\+Name,  type)~string\+Path\+To\+Set =\mbox{[}\mbox{[}N\+S\+Bundle main\+Bundle\mbox{]} path\+For\+Resource\+:resource\+Name of\+Type\+:type\mbox{]}
+\item 
+\#define \hyperlink{_utility_8h_ab798f241c56cae9cb49d7697c042511b}{get\+Document\+Directory}(doc\+Dir)
+\item 
+\#define \hyperlink{_utility_8h_ac261bc1d6f7fabc230998e8e8eb81cb0}{B\+A\+R\+B\+U\+T\+T\+ON}(T\+I\+T\+LE,  S\+E\+L\+E\+C\+T\+OR)
+\item 
+\#define \hyperlink{_utility_8h_a071f6d7354ece6cdbafc5c489ee5e814}{B\+A\+R\+B\+U\+T\+T\+O\+N\+\_\+\+T\+A\+R\+G\+ET}(T\+A\+R\+G\+ET,  T\+I\+T\+LE,  S\+E\+L\+E\+C\+T\+OR)
+\item 
+\#define \hyperlink{_utility_8h_a2006a3a2d252938578d229a3e8ed806d}{S\+Y\+S\+B\+A\+R\+B\+U\+T\+T\+ON}(I\+T\+EM,  S\+E\+L\+E\+C\+T\+OR)
+\item 
+\#define \hyperlink{_utility_8h_a2c5395e5ed6db616159a4b3d76df1185}{S\+Y\+S\+B\+A\+R\+B\+U\+T\+T\+O\+N\+\_\+\+T\+A\+R\+G\+ET}(I\+T\+EM,  T\+A\+R\+G\+ET,  S\+E\+L\+E\+C\+T\+OR)
+\item 
+\#define \hyperlink{_utility_8h_a7efa064232f0a89e1d99a6463004018f}{basic\+Alert\+Message}(msg)
+\item 
+\#define \hyperlink{_utility_8h_a2ff0f6c6b2454f0734b590be5655b8cb}{S\+E\+T\+A\+C\+T\+I\+O\+N\+F\+O\+R\+B\+U\+T\+T\+ON}(B\+UT,  T\+A\+RG,  S\+E\+L\+E\+C\+T\+OR)
+\item 
+\#define \hyperlink{_utility_8h_a30b903bc59e0d793776c4a4d748e1549}{delta}(initial,  current,  d)
+\item 
+\#define \hyperlink{_utility_8h_aec6cab428f51fba37f9da9a399ca6298}{S\+E\+T\+S\+W\+I\+PE}(S\+W\+I\+P\+E\+G\+E\+S\+T\+U\+RE,  D\+E\+L\+E\+G\+A\+TE,  F\+O\+R\+T\+Y\+PE)
+\end{DoxyCompactItemize}
+\subsection*{Functions}
+\begin{DoxyCompactItemize}
+\item 
+void \hyperlink{_utility_8h_a85ec1e5d904441b7d5afd6b10a2f93cd}{add\+Bottom\+Border} (U\+I\+View $\ast$to\+This\+View, C\+G\+Color\+Ref with\+C\+G\+Color, float size)
+\item 
+void \hyperlink{_utility_8h_ad6227551187dabb3c2dd940bc1e1785f}{add\+Top\+Border} (U\+I\+View $\ast$to\+This\+View, C\+G\+Color\+Ref with\+C\+G\+Color, float size)
+\item 
+void \hyperlink{_utility_8h_ab7263b8cd6a3d5178449a123b08d5099}{add\+Left\+Border} (U\+I\+View $\ast$to\+This\+View, C\+G\+Color\+Ref with\+C\+G\+Color, float size)
+\item 
+void \hyperlink{_utility_8h_a5b0e47f338be8dd8a69b28b96c1398aa}{add\+Right\+Border} (U\+I\+View $\ast$to\+This\+View, C\+G\+Color\+Ref with\+C\+G\+Color, float size)
+\item 
+\hyperlink{_utility_8h_adf5c804dfce7a70e36dda02995fad481}{exit} (0)
+\end{DoxyCompactItemize}
+
+
+\subsection{Macro Definition Documentation}
+\hypertarget{_utility_8h_ac261bc1d6f7fabc230998e8e8eb81cb0}{}\label{_utility_8h_ac261bc1d6f7fabc230998e8e8eb81cb0} 
+\index{Utility.\+h@{Utility.\+h}!B\+A\+R\+B\+U\+T\+T\+ON@{B\+A\+R\+B\+U\+T\+T\+ON}}
+\index{B\+A\+R\+B\+U\+T\+T\+ON@{B\+A\+R\+B\+U\+T\+T\+ON}!Utility.\+h@{Utility.\+h}}
+\subsubsection{\texorpdfstring{B\+A\+R\+B\+U\+T\+T\+ON}{BARBUTTON}}
+{\footnotesize\ttfamily \#define B\+A\+R\+B\+U\+T\+T\+ON(\begin{DoxyParamCaption}\item[{}]{T\+I\+T\+LE,  }\item[{}]{S\+E\+L\+E\+C\+T\+OR }\end{DoxyParamCaption})}
+
+{\bfseries Value\+:}
+\begin{DoxyCode}
+[[UIBarButtonItem alloc] \(\backslash\)
+initWithTitle:TITLE style:UIBarButtonItemStylePlain \(\backslash\)
+target:\textcolor{keyword}{self} action:SELECTOR]
+\end{DoxyCode}
+\hypertarget{_utility_8h_a071f6d7354ece6cdbafc5c489ee5e814}{}\label{_utility_8h_a071f6d7354ece6cdbafc5c489ee5e814} 
+\index{Utility.\+h@{Utility.\+h}!B\+A\+R\+B\+U\+T\+T\+O\+N\+\_\+\+T\+A\+R\+G\+ET@{B\+A\+R\+B\+U\+T\+T\+O\+N\+\_\+\+T\+A\+R\+G\+ET}}
+\index{B\+A\+R\+B\+U\+T\+T\+O\+N\+\_\+\+T\+A\+R\+G\+ET@{B\+A\+R\+B\+U\+T\+T\+O\+N\+\_\+\+T\+A\+R\+G\+ET}!Utility.\+h@{Utility.\+h}}
+\subsubsection{\texorpdfstring{B\+A\+R\+B\+U\+T\+T\+O\+N\+\_\+\+T\+A\+R\+G\+ET}{BARBUTTON\_TARGET}}
+{\footnotesize\ttfamily \#define B\+A\+R\+B\+U\+T\+T\+O\+N\+\_\+\+T\+A\+R\+G\+ET(\begin{DoxyParamCaption}\item[{}]{T\+A\+R\+G\+ET,  }\item[{}]{T\+I\+T\+LE,  }\item[{}]{S\+E\+L\+E\+C\+T\+OR }\end{DoxyParamCaption})}
+
+{\bfseries Value\+:}
+\begin{DoxyCode}
+[[UIBarButtonItem alloc] initWithTitle:TITLE \(\backslash\)
+style:UIBarButtonItemStylePlain target:TARGET action:SELECTOR]
+\end{DoxyCode}
+\hypertarget{_utility_8h_a7efa064232f0a89e1d99a6463004018f}{}\label{_utility_8h_a7efa064232f0a89e1d99a6463004018f} 
+\index{Utility.\+h@{Utility.\+h}!basic\+Alert\+Message@{basic\+Alert\+Message}}
+\index{basic\+Alert\+Message@{basic\+Alert\+Message}!Utility.\+h@{Utility.\+h}}
+\subsubsection{\texorpdfstring{basic\+Alert\+Message}{basicAlertMessage}}
+{\footnotesize\ttfamily \#define basic\+Alert\+Message(\begin{DoxyParamCaption}\item[{}]{msg }\end{DoxyParamCaption})}
+
+{\bfseries Value\+:}
+\begin{DoxyCode}
+UIAlertView *av = [[UIAlertView alloc] \(\backslash\)
+initWithTitle:\textcolor{stringliteral}{@"Error"} message:msg \(\backslash\)
+delegate:nil cancelButtonTitle:\textcolor{stringliteral}{@"Ok"} otherButtonTitles:nil]; \(\backslash\)
+[av show];
+\end{DoxyCode}
+\hypertarget{_utility_8h_ac1a7ce1cf0779277dc0a5edf36763e3a}{}\label{_utility_8h_ac1a7ce1cf0779277dc0a5edf36763e3a} 
+\index{Utility.\+h@{Utility.\+h}!create\+Unique\+Movie\+Url@{create\+Unique\+Movie\+Url}}
+\index{create\+Unique\+Movie\+Url@{create\+Unique\+Movie\+Url}!Utility.\+h@{Utility.\+h}}
+\subsubsection{\texorpdfstring{create\+Unique\+Movie\+Url}{createUniqueMovieUrl}}
+{\footnotesize\ttfamily \#define create\+Unique\+Movie\+Url(\begin{DoxyParamCaption}\item[{}]{url }\end{DoxyParamCaption})}
+
+{\bfseries Value\+:}
+\begin{DoxyCode}
+NSArray *documentsDirectory = NSSearchPathForDirectoriesInDomains(NSDocumentDirectory, NSUserDomainMask, 
+      YES);\(\backslash\)
+NSString *docPath = [documentsDirectory objectAtIndex:0];\(\backslash\)
+NSString *videoName = [NSString stringWithFormat:\textcolor{stringliteral}{@"%@.mov"},[NSProcessInfo processInfo].globallyUniqueString
+      ];\(\backslash\)
+NSString *videoPath = [docPath stringByAppendingPathComponent:videoName];\(\backslash\)
+url = [NSURL fileURLWithPath:videoPath]
+\end{DoxyCode}
+\hypertarget{_utility_8h_af9ae9267cdb998b8b7d13e2d5d1d6b64}{}\label{_utility_8h_af9ae9267cdb998b8b7d13e2d5d1d6b64} 
+\index{Utility.\+h@{Utility.\+h}!debugging@{debugging}}
+\index{debugging@{debugging}!Utility.\+h@{Utility.\+h}}
+\subsubsection{\texorpdfstring{debugging}{debugging}}
+{\footnotesize\ttfamily \#define debugging~1}
+
+\hypertarget{_utility_8h_a30b903bc59e0d793776c4a4d748e1549}{}\label{_utility_8h_a30b903bc59e0d793776c4a4d748e1549} 
+\index{Utility.\+h@{Utility.\+h}!delta@{delta}}
+\index{delta@{delta}!Utility.\+h@{Utility.\+h}}
+\subsubsection{\texorpdfstring{delta}{delta}}
+{\footnotesize\ttfamily \#define delta(\begin{DoxyParamCaption}\item[{}]{initial,  }\item[{}]{current,  }\item[{}]{d }\end{DoxyParamCaption})}
+
+{\bfseries Value\+:}
+\begin{DoxyCode}
+d = current;\(\backslash\)
+d.x -= initial.x;\(\backslash\)
+d.y -= initial.y;
+\end{DoxyCode}
+\hypertarget{_utility_8h_af8c573d5a634c29cfa59490cce6d0b6a}{}\label{_utility_8h_af8c573d5a634c29cfa59490cce6d0b6a} 
+\index{Utility.\+h@{Utility.\+h}!dispatch\+Async\+Main\+Queue@{dispatch\+Async\+Main\+Queue}}
+\index{dispatch\+Async\+Main\+Queue@{dispatch\+Async\+Main\+Queue}!Utility.\+h@{Utility.\+h}}
+\subsubsection{\texorpdfstring{dispatch\+Async\+Main\+Queue}{dispatchAsyncMainQueue}}
+{\footnotesize\ttfamily \#define dispatch\+Async\+Main\+Queue(\begin{DoxyParamCaption}\item[{}]{x }\end{DoxyParamCaption})~dispatch\+\_\+async(dispatch\+\_\+get\+\_\+main\+\_\+queue(),$^\wedge$\{x\})}
+
+\hypertarget{_utility_8h_a1c375cf270a74960091475eca5d7498f}{}\label{_utility_8h_a1c375cf270a74960091475eca5d7498f} 
+\index{Utility.\+h@{Utility.\+h}!error\+Message@{error\+Message}}
+\index{error\+Message@{error\+Message}!Utility.\+h@{Utility.\+h}}
+\subsubsection{\texorpdfstring{error\+Message}{errorMessage}}
+{\footnotesize\ttfamily \#define error\+Message(\begin{DoxyParamCaption}\item[{}]{x }\end{DoxyParamCaption})~N\+S\+Log(@\char`\"{}\%@\char`\"{},x);}
+
+\hypertarget{_utility_8h_ab798f241c56cae9cb49d7697c042511b}{}\label{_utility_8h_ab798f241c56cae9cb49d7697c042511b} 
+\index{Utility.\+h@{Utility.\+h}!get\+Document\+Directory@{get\+Document\+Directory}}
+\index{get\+Document\+Directory@{get\+Document\+Directory}!Utility.\+h@{Utility.\+h}}
+\subsubsection{\texorpdfstring{get\+Document\+Directory}{getDocumentDirectory}}
+{\footnotesize\ttfamily \#define get\+Document\+Directory(\begin{DoxyParamCaption}\item[{}]{doc\+Dir }\end{DoxyParamCaption})}
+
+{\bfseries Value\+:}
+\begin{DoxyCode}
+NSArray *paths = NSSearchPathForDirectoriesInDomains(NSDocumentDirectory, NSUserDomainMask, YES);\(\backslash\)
+ docDir = paths.firstObject;
+\end{DoxyCode}
+\hypertarget{_utility_8h_a50b202ac97294cb483385f9cf10a6ea2}{}\label{_utility_8h_a50b202ac97294cb483385f9cf10a6ea2} 
+\index{Utility.\+h@{Utility.\+h}!get\+Resource@{get\+Resource}}
+\index{get\+Resource@{get\+Resource}!Utility.\+h@{Utility.\+h}}
+\subsubsection{\texorpdfstring{get\+Resource}{getResource}}
+{\footnotesize\ttfamily \#define get\+Resource(\begin{DoxyParamCaption}\item[{}]{string\+Path\+To\+Set,  }\item[{}]{resource\+Name,  }\item[{}]{type }\end{DoxyParamCaption})~string\+Path\+To\+Set =\mbox{[}\mbox{[}N\+S\+Bundle main\+Bundle\mbox{]} path\+For\+Resource\+:resource\+Name of\+Type\+:type\mbox{]}}
+
+\hypertarget{_utility_8h_a6e3814a867e03a2cdd7090c007dd690f}{}\label{_utility_8h_a6e3814a867e03a2cdd7090c007dd690f} 
+\index{Utility.\+h@{Utility.\+h}!load\+Nib\+Named@{load\+Nib\+Named}}
+\index{load\+Nib\+Named@{load\+Nib\+Named}!Utility.\+h@{Utility.\+h}}
+\subsubsection{\texorpdfstring{load\+Nib\+Named}{loadNibNamed}}
+{\footnotesize\ttfamily \#define load\+Nib\+Named(\begin{DoxyParamCaption}\item[{}]{name }\end{DoxyParamCaption})~\mbox{[}\mbox{[}N\+S\+Bundle main\+Bundle\mbox{]} load\+Nib\+Named\+:name owner\+:self options\+:nil\mbox{]}\mbox{[}0\mbox{]}}
+
+\hypertarget{_utility_8h_aefc4fbd5c994dd77ffc1e454bd519ba2}{}\label{_utility_8h_aefc4fbd5c994dd77ffc1e454bd519ba2} 
+\index{Utility.\+h@{Utility.\+h}!load\+View\+Controller@{load\+View\+Controller}}
+\index{load\+View\+Controller@{load\+View\+Controller}!Utility.\+h@{Utility.\+h}}
+\subsubsection{\texorpdfstring{load\+View\+Controller}{loadViewController}}
+{\footnotesize\ttfamily \#define load\+View\+Controller(\begin{DoxyParamCaption}\item[{}]{name }\end{DoxyParamCaption})~\mbox{[}\mbox{[}U\+I\+Storyboard storyboard\+With\+Name\+:@\char`\"{}Main\char`\"{} bundle\+:nil\mbox{]}instantiate\+View\+Controller\+With\+Identifier\+:name\mbox{]}}
+
+\hypertarget{_utility_8h_a57e207fc3e56673d5da475e62f2dc8b0}{}\label{_utility_8h_a57e207fc3e56673d5da475e62f2dc8b0} 
+\index{Utility.\+h@{Utility.\+h}!log\+Method@{log\+Method}}
+\index{log\+Method@{log\+Method}!Utility.\+h@{Utility.\+h}}
+\subsubsection{\texorpdfstring{log\+Method}{logMethod}}
+{\footnotesize\ttfamily \#define log\+Method(\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})~N\+S\+Log(@\char`\"{}Running \%@ \textquotesingle{}\%@\textquotesingle{}\char`\"{}, self.\+class, N\+S\+String\+From\+Selector(\+\_\+cmd));}
+
+\hypertarget{_utility_8h_a2ff0f6c6b2454f0734b590be5655b8cb}{}\label{_utility_8h_a2ff0f6c6b2454f0734b590be5655b8cb} 
+\index{Utility.\+h@{Utility.\+h}!S\+E\+T\+A\+C\+T\+I\+O\+N\+F\+O\+R\+B\+U\+T\+T\+ON@{S\+E\+T\+A\+C\+T\+I\+O\+N\+F\+O\+R\+B\+U\+T\+T\+ON}}
+\index{S\+E\+T\+A\+C\+T\+I\+O\+N\+F\+O\+R\+B\+U\+T\+T\+ON@{S\+E\+T\+A\+C\+T\+I\+O\+N\+F\+O\+R\+B\+U\+T\+T\+ON}!Utility.\+h@{Utility.\+h}}
+\subsubsection{\texorpdfstring{S\+E\+T\+A\+C\+T\+I\+O\+N\+F\+O\+R\+B\+U\+T\+T\+ON}{SETACTIONFORBUTTON}}
+{\footnotesize\ttfamily \#define S\+E\+T\+A\+C\+T\+I\+O\+N\+F\+O\+R\+B\+U\+T\+T\+ON(\begin{DoxyParamCaption}\item[{}]{B\+UT,  }\item[{}]{T\+A\+RG,  }\item[{}]{S\+E\+L\+E\+C\+T\+OR }\end{DoxyParamCaption})}
+
+{\bfseries Value\+:}
+\begin{DoxyCode}
+\textcolor{keywordflow}{if}([BUT isKindOfClass:[UIBarButtonItem  \textcolor{keyword}{class}]])\{\(\backslash\)
+    UIBarButtonItem  * b = BUT;\(\backslash\)
+    [b setTarget:TARG];\(\backslash\)
+    [b setAction:\textcolor{keyword}{@selector}(SELECTOR:)];\(\backslash\)
+    \(\backslash\)
+\}\textcolor{keywordflow}{else} \textcolor{keywordflow}{if}([BUT isKindOfClass:[UIButton \textcolor{keyword}{class}]])\{\(\backslash\)
+    UIButton  * b = BUT;\(\backslash\)
+    [b addTarget:TARG action:\textcolor{keyword}{@selector}(SELECTOR:) forControlEvents:UIControlEventTouchUpInside];\(\backslash\)
+    \(\backslash\)
+\}\textcolor{keywordflow}{else}\{\(\backslash\)
+\end{DoxyCode}
+\hypertarget{_utility_8h_af8d7074f13890efd6edde7556a717e23}{}\label{_utility_8h_af8d7074f13890efd6edde7556a717e23} 
+\index{Utility.\+h@{Utility.\+h}!set\+Refresh\+Controller@{set\+Refresh\+Controller}}
+\index{set\+Refresh\+Controller@{set\+Refresh\+Controller}!Utility.\+h@{Utility.\+h}}
+\subsubsection{\texorpdfstring{set\+Refresh\+Controller}{setRefreshController}}
+{\footnotesize\ttfamily \#define set\+Refresh\+Controller(\begin{DoxyParamCaption}\item[{}]{refresh\+Control,  }\item[{}]{target,  }\item[{}]{method }\end{DoxyParamCaption})}
+
+{\bfseries Value\+:}
+\begin{DoxyCode}
+refreshControl = [[UIRefreshControl alloc]init];\(\backslash\)
+[refreshControl addTarget:target action:\textcolor{keyword}{@selector}(method:) forControlEvents:UIControlEventValueChanged];
+\end{DoxyCode}
+\hypertarget{_utility_8h_aec6cab428f51fba37f9da9a399ca6298}{}\label{_utility_8h_aec6cab428f51fba37f9da9a399ca6298} 
+\index{Utility.\+h@{Utility.\+h}!S\+E\+T\+S\+W\+I\+PE@{S\+E\+T\+S\+W\+I\+PE}}
+\index{S\+E\+T\+S\+W\+I\+PE@{S\+E\+T\+S\+W\+I\+PE}!Utility.\+h@{Utility.\+h}}
+\subsubsection{\texorpdfstring{S\+E\+T\+S\+W\+I\+PE}{SETSWIPE}}
+{\footnotesize\ttfamily \#define S\+E\+T\+S\+W\+I\+PE(\begin{DoxyParamCaption}\item[{}]{S\+W\+I\+P\+E\+G\+E\+S\+T\+U\+RE,  }\item[{}]{D\+E\+L\+E\+G\+A\+TE,  }\item[{}]{F\+O\+R\+T\+Y\+PE }\end{DoxyParamCaption})}
+
+{\bfseries Value\+:}
+\begin{DoxyCode}
+SWIPEGESTURE.direction = FORTYPE;\(\backslash\)
+SWIPEGESTURE.delegate = DELEGATE;\(\backslash\)
+[DELEGATE.view addGestureRecognizer:SWIPEGESTURE];
+\end{DoxyCode}
+\hypertarget{_utility_8h_acd673a5e37390c28a2c4192130af6bd7}{}\label{_utility_8h_acd673a5e37390c28a2c4192130af6bd7} 
+\index{Utility.\+h@{Utility.\+h}!S\+N\+A\+P\+\_\+\+G\+R\+A\+Y\+\_\+\+C\+O\+L\+OR@{S\+N\+A\+P\+\_\+\+G\+R\+A\+Y\+\_\+\+C\+O\+L\+OR}}
+\index{S\+N\+A\+P\+\_\+\+G\+R\+A\+Y\+\_\+\+C\+O\+L\+OR@{S\+N\+A\+P\+\_\+\+G\+R\+A\+Y\+\_\+\+C\+O\+L\+OR}!Utility.\+h@{Utility.\+h}}
+\subsubsection{\texorpdfstring{S\+N\+A\+P\+\_\+\+G\+R\+A\+Y\+\_\+\+C\+O\+L\+OR}{SNAP\_GRAY\_COLOR}}
+{\footnotesize\ttfamily \#define S\+N\+A\+P\+\_\+\+G\+R\+A\+Y\+\_\+\+C\+O\+L\+OR~\mbox{[}U\+I\+Color color\+With\+Red\+:248 green\+:248 blue\+:248 alpha\+:1.\+0\mbox{]}}
+
+\hypertarget{_utility_8h_a2006a3a2d252938578d229a3e8ed806d}{}\label{_utility_8h_a2006a3a2d252938578d229a3e8ed806d} 
+\index{Utility.\+h@{Utility.\+h}!S\+Y\+S\+B\+A\+R\+B\+U\+T\+T\+ON@{S\+Y\+S\+B\+A\+R\+B\+U\+T\+T\+ON}}
+\index{S\+Y\+S\+B\+A\+R\+B\+U\+T\+T\+ON@{S\+Y\+S\+B\+A\+R\+B\+U\+T\+T\+ON}!Utility.\+h@{Utility.\+h}}
+\subsubsection{\texorpdfstring{S\+Y\+S\+B\+A\+R\+B\+U\+T\+T\+ON}{SYSBARBUTTON}}
+{\footnotesize\ttfamily \#define S\+Y\+S\+B\+A\+R\+B\+U\+T\+T\+ON(\begin{DoxyParamCaption}\item[{}]{I\+T\+EM,  }\item[{}]{S\+E\+L\+E\+C\+T\+OR }\end{DoxyParamCaption})}
+
+{\bfseries Value\+:}
+\begin{DoxyCode}
+[[UIBarButtonItem alloc] \(\backslash\)
+initWithBarButtonSystemItem:ITEM target:\textcolor{keyword}{self} action:SELECTOR]
+\end{DoxyCode}
+\hypertarget{_utility_8h_a2c5395e5ed6db616159a4b3d76df1185}{}\label{_utility_8h_a2c5395e5ed6db616159a4b3d76df1185} 
+\index{Utility.\+h@{Utility.\+h}!S\+Y\+S\+B\+A\+R\+B\+U\+T\+T\+O\+N\+\_\+\+T\+A\+R\+G\+ET@{S\+Y\+S\+B\+A\+R\+B\+U\+T\+T\+O\+N\+\_\+\+T\+A\+R\+G\+ET}}
+\index{S\+Y\+S\+B\+A\+R\+B\+U\+T\+T\+O\+N\+\_\+\+T\+A\+R\+G\+ET@{S\+Y\+S\+B\+A\+R\+B\+U\+T\+T\+O\+N\+\_\+\+T\+A\+R\+G\+ET}!Utility.\+h@{Utility.\+h}}
+\subsubsection{\texorpdfstring{S\+Y\+S\+B\+A\+R\+B\+U\+T\+T\+O\+N\+\_\+\+T\+A\+R\+G\+ET}{SYSBARBUTTON\_TARGET}}
+{\footnotesize\ttfamily \#define S\+Y\+S\+B\+A\+R\+B\+U\+T\+T\+O\+N\+\_\+\+T\+A\+R\+G\+ET(\begin{DoxyParamCaption}\item[{}]{I\+T\+EM,  }\item[{}]{T\+A\+R\+G\+ET,  }\item[{}]{S\+E\+L\+E\+C\+T\+OR }\end{DoxyParamCaption})}
+
+{\bfseries Value\+:}
+\begin{DoxyCode}
+[[UIBarButtonItem alloc] initWithBarButtonSystemItem:ITEM \(\backslash\)
+target:TARGET action:SELECTOR]
+\end{DoxyCode}
+\hypertarget{_utility_8h_afe0534ca994b08a0ec5edf614aa48e9c}{}\label{_utility_8h_afe0534ca994b08a0ec5edf614aa48e9c} 
+\index{Utility.\+h@{Utility.\+h}!verbose@{verbose}}
+\index{verbose@{verbose}!Utility.\+h@{Utility.\+h}}
+\subsubsection{\texorpdfstring{verbose}{verbose}}
+{\footnotesize\ttfamily \#define verbose}
+
+
+
+\subsection{Function Documentation}
+\hypertarget{_utility_8h_a85ec1e5d904441b7d5afd6b10a2f93cd}{}\label{_utility_8h_a85ec1e5d904441b7d5afd6b10a2f93cd} 
+\index{Utility.\+h@{Utility.\+h}!add\+Bottom\+Border@{add\+Bottom\+Border}}
+\index{add\+Bottom\+Border@{add\+Bottom\+Border}!Utility.\+h@{Utility.\+h}}
+\subsubsection{\texorpdfstring{add\+Bottom\+Border()}{addBottomBorder()}}
+{\footnotesize\ttfamily void add\+Bottom\+Border (\begin{DoxyParamCaption}\item[{U\+I\+View $\ast$}]{to\+This\+View,  }\item[{C\+G\+Color\+Ref}]{with\+C\+G\+Color,  }\item[{float}]{size }\end{DoxyParamCaption})}
+
+\hypertarget{_utility_8h_ab7263b8cd6a3d5178449a123b08d5099}{}\label{_utility_8h_ab7263b8cd6a3d5178449a123b08d5099} 
+\index{Utility.\+h@{Utility.\+h}!add\+Left\+Border@{add\+Left\+Border}}
+\index{add\+Left\+Border@{add\+Left\+Border}!Utility.\+h@{Utility.\+h}}
+\subsubsection{\texorpdfstring{add\+Left\+Border()}{addLeftBorder()}}
+{\footnotesize\ttfamily void add\+Left\+Border (\begin{DoxyParamCaption}\item[{U\+I\+View $\ast$}]{to\+This\+View,  }\item[{C\+G\+Color\+Ref}]{with\+C\+G\+Color,  }\item[{float}]{size }\end{DoxyParamCaption})}
+
+\hypertarget{_utility_8h_a5b0e47f338be8dd8a69b28b96c1398aa}{}\label{_utility_8h_a5b0e47f338be8dd8a69b28b96c1398aa} 
+\index{Utility.\+h@{Utility.\+h}!add\+Right\+Border@{add\+Right\+Border}}
+\index{add\+Right\+Border@{add\+Right\+Border}!Utility.\+h@{Utility.\+h}}
+\subsubsection{\texorpdfstring{add\+Right\+Border()}{addRightBorder()}}
+{\footnotesize\ttfamily void add\+Right\+Border (\begin{DoxyParamCaption}\item[{U\+I\+View $\ast$}]{to\+This\+View,  }\item[{C\+G\+Color\+Ref}]{with\+C\+G\+Color,  }\item[{float}]{size }\end{DoxyParamCaption})}
+
+\hypertarget{_utility_8h_ad6227551187dabb3c2dd940bc1e1785f}{}\label{_utility_8h_ad6227551187dabb3c2dd940bc1e1785f} 
+\index{Utility.\+h@{Utility.\+h}!add\+Top\+Border@{add\+Top\+Border}}
+\index{add\+Top\+Border@{add\+Top\+Border}!Utility.\+h@{Utility.\+h}}
+\subsubsection{\texorpdfstring{add\+Top\+Border()}{addTopBorder()}}
+{\footnotesize\ttfamily void add\+Top\+Border (\begin{DoxyParamCaption}\item[{U\+I\+View $\ast$}]{to\+This\+View,  }\item[{C\+G\+Color\+Ref}]{with\+C\+G\+Color,  }\item[{float}]{size }\end{DoxyParamCaption})}
+
+\hypertarget{_utility_8h_adf5c804dfce7a70e36dda02995fad481}{}\label{_utility_8h_adf5c804dfce7a70e36dda02995fad481} 
+\index{Utility.\+h@{Utility.\+h}!exit@{exit}}
+\index{exit@{exit}!Utility.\+h@{Utility.\+h}}
+\subsubsection{\texorpdfstring{exit()}{exit()}}
+{\footnotesize\ttfamily exit (\begin{DoxyParamCaption}\item[{0}]{ }\end{DoxyParamCaption})}
+

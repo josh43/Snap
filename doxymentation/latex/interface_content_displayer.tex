@@ -1,0 +1,158 @@
+\hypertarget{interface_content_displayer}{}\section{Content\+Displayer Class Reference}
+\label{interface_content_displayer}\index{Content\+Displayer@{Content\+Displayer}}
+
+
+{\ttfamily \#import $<$Content\+Displayer.\+h$>$}
+
+Inheritance diagram for Content\+Displayer\+:\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[height=2.000000cm]{interface_content_displayer}
+\end{center}
+\end{figure}
+\subsection*{Instance Methods}
+\begin{DoxyCompactItemize}
+\item 
+(void) -\/ \hyperlink{interface_content_displayer_a394c0a48cc0da322443c6606bc24218e}{load\+And\+Display\+Image\+:}
+\item 
+(instancetype) -\/ \hyperlink{interface_content_displayer_aae262893d4c6e7ff993ff480a93186e2}{init\+With\+Frame\+:and\+Data\+:with\+Content\+Type\+:and\+Url\+:or\+With\+Snap\+:and\+Story\+:}
+\item 
+(instancetype) -\/ \hyperlink{interface_content_displayer_a8609eb22a891ebc39b25b6ccd4b9cb00}{init}
+\item 
+(void) -\/ \hyperlink{interface_content_displayer_a83192dc0784c16bd36fcd44d9483cd57}{un\+Observe\+Key\+Values}
+\item 
+(void) -\/ \hyperlink{interface_content_displayer_aa11e7fc5d69268a8abdb8d2c2e4dfcc6}{start\+Movie}
+\item 
+(void) -\/ \hyperlink{interface_content_displayer_aa820d0970ffd15f40ccf34441f8464e9}{play\+Next\+Movie}
+\item 
+(void) -\/ \hyperlink{interface_content_displayer_a2786869da988a49840b68827fcc113c6}{stop\+Movie}
+\item 
+(void) -\/ \hyperlink{interface_content_displayer_a15b41b0fc1e213541ec61ff3da5bb2c5}{bring\+Movie\+View\+To\+Front}
+\item 
+(void) -\/ \hyperlink{interface_content_displayer_a135fda747e1b224c270d52c0a5ca79b8}{bring\+Image\+View\+To\+Front}
+\end{DoxyCompactItemize}
+\subsection*{Properties}
+\begin{DoxyCompactItemize}
+\item 
+N\+S\+Data $\ast$ \hyperlink{interface_content_displayer_a271c75b6c7eae098d25223b989e78e9e}{data}
+\item 
+int \hyperlink{interface_content_displayer_a0d19b1773442e481626b142d0a23fe72}{content\+Type}
+\item 
+N\+S\+U\+RL $\ast$ \hyperlink{interface_content_displayer_ac8cd5e3d377ad4c158ad8a8f690abde4}{url}
+\item 
+U\+I\+Image\+View $\ast$ \hyperlink{interface_content_displayer_a88ae9e71a5bf3e3317b719a9ed24ef6e}{i\+View}
+\item 
+U\+I\+View $\ast$ \hyperlink{interface_content_displayer_a25ed98fdc92fda41a7c53829f5d05b4b}{my\+View}
+\item 
+B\+O\+OL \hyperlink{interface_content_displayer_a66c3907833921bd7750a58467ce01661}{using\+Queue\+Player}
+\item 
+\hyperlink{interface_video_layer}{Video\+Layer} $\ast$ \hyperlink{interface_content_displayer_afe0c54fd8098df7af42a160113ec6e34}{vid\+Layer}
+\end{DoxyCompactItemize}
+
+
+\subsection{Method Documentation}
+\hypertarget{interface_content_displayer_a135fda747e1b224c270d52c0a5ca79b8}{}\label{interface_content_displayer_a135fda747e1b224c270d52c0a5ca79b8} 
+\index{Content\+Displayer@{Content\+Displayer}!bring\+Image\+View\+To\+Front@{bring\+Image\+View\+To\+Front}}
+\index{bring\+Image\+View\+To\+Front@{bring\+Image\+View\+To\+Front}!Content\+Displayer@{Content\+Displayer}}
+\subsubsection{\texorpdfstring{bring\+Image\+View\+To\+Front()}{bringImageViewToFront()}}
+{\footnotesize\ttfamily -\/ (void) bring\+Image\+View\+To\+Front \begin{DoxyParamCaption}{ }\end{DoxyParamCaption}}
+
+\hypertarget{interface_content_displayer_a15b41b0fc1e213541ec61ff3da5bb2c5}{}\label{interface_content_displayer_a15b41b0fc1e213541ec61ff3da5bb2c5} 
+\index{Content\+Displayer@{Content\+Displayer}!bring\+Movie\+View\+To\+Front@{bring\+Movie\+View\+To\+Front}}
+\index{bring\+Movie\+View\+To\+Front@{bring\+Movie\+View\+To\+Front}!Content\+Displayer@{Content\+Displayer}}
+\subsubsection{\texorpdfstring{bring\+Movie\+View\+To\+Front()}{bringMovieViewToFront()}}
+{\footnotesize\ttfamily -\/ (void) bring\+Movie\+View\+To\+Front \begin{DoxyParamCaption}{ }\end{DoxyParamCaption}}
+
+\hypertarget{interface_content_displayer_a8609eb22a891ebc39b25b6ccd4b9cb00}{}\label{interface_content_displayer_a8609eb22a891ebc39b25b6ccd4b9cb00} 
+\index{Content\+Displayer@{Content\+Displayer}!init@{init}}
+\index{init@{init}!Content\+Displayer@{Content\+Displayer}}
+\subsubsection{\texorpdfstring{init()}{init()}}
+{\footnotesize\ttfamily -\/ (instancetype) init \begin{DoxyParamCaption}{ }\end{DoxyParamCaption}}
+
+\hypertarget{interface_content_displayer_aae262893d4c6e7ff993ff480a93186e2}{}\label{interface_content_displayer_aae262893d4c6e7ff993ff480a93186e2} 
+\index{Content\+Displayer@{Content\+Displayer}!init\+With\+Frame\+:and\+Data\+:with\+Content\+Type\+:and\+Url\+:or\+With\+Snap\+:and\+Story\+:@{init\+With\+Frame\+:and\+Data\+:with\+Content\+Type\+:and\+Url\+:or\+With\+Snap\+:and\+Story\+:}}
+\index{init\+With\+Frame\+:and\+Data\+:with\+Content\+Type\+:and\+Url\+:or\+With\+Snap\+:and\+Story\+:@{init\+With\+Frame\+:and\+Data\+:with\+Content\+Type\+:and\+Url\+:or\+With\+Snap\+:and\+Story\+:}!Content\+Displayer@{Content\+Displayer}}
+\subsubsection{\texorpdfstring{init\+With\+Frame\+:and\+Data\+:with\+Content\+Type\+:and\+Url\+:or\+With\+Snap\+:and\+Story\+:()}{initWithFrame:andData:withContentType:andUrl:orWithSnap:andStory:()}}
+{\footnotesize\ttfamily -\/ (instancetype) init\+With\+Frame\+: \begin{DoxyParamCaption}\item[{(C\+G\+Rect)}]{frame }\item[{andData:(N\+S\+Data $\ast$)}]{data }\item[{withContentType:(int)}]{content\+\_\+type }\item[{andUrl:(N\+S\+U\+RL $\ast$)}]{url }\item[{orWithSnap:(\hyperlink{interface_snap}{Snap} $\ast$)}]{snap }\item[{andStory:(\hyperlink{interface_story}{Story} $\ast$)}]{story }\end{DoxyParamCaption}}
+
+\hypertarget{interface_content_displayer_a394c0a48cc0da322443c6606bc24218e}{}\label{interface_content_displayer_a394c0a48cc0da322443c6606bc24218e} 
+\index{Content\+Displayer@{Content\+Displayer}!load\+And\+Display\+Image\+:@{load\+And\+Display\+Image\+:}}
+\index{load\+And\+Display\+Image\+:@{load\+And\+Display\+Image\+:}!Content\+Displayer@{Content\+Displayer}}
+\subsubsection{\texorpdfstring{load\+And\+Display\+Image\+:()}{loadAndDisplayImage:()}}
+{\footnotesize\ttfamily -\/ (void) load\+And\+Display\+Image\+: \begin{DoxyParamCaption}\item[{(U\+I\+Image $\ast$)}]{image }\end{DoxyParamCaption}}
+
+\hypertarget{interface_content_displayer_aa820d0970ffd15f40ccf34441f8464e9}{}\label{interface_content_displayer_aa820d0970ffd15f40ccf34441f8464e9} 
+\index{Content\+Displayer@{Content\+Displayer}!play\+Next\+Movie@{play\+Next\+Movie}}
+\index{play\+Next\+Movie@{play\+Next\+Movie}!Content\+Displayer@{Content\+Displayer}}
+\subsubsection{\texorpdfstring{play\+Next\+Movie()}{playNextMovie()}}
+{\footnotesize\ttfamily -\/ (void) play\+Next\+Movie \begin{DoxyParamCaption}{ }\end{DoxyParamCaption}}
+
+\hypertarget{interface_content_displayer_aa11e7fc5d69268a8abdb8d2c2e4dfcc6}{}\label{interface_content_displayer_aa11e7fc5d69268a8abdb8d2c2e4dfcc6} 
+\index{Content\+Displayer@{Content\+Displayer}!start\+Movie@{start\+Movie}}
+\index{start\+Movie@{start\+Movie}!Content\+Displayer@{Content\+Displayer}}
+\subsubsection{\texorpdfstring{start\+Movie()}{startMovie()}}
+{\footnotesize\ttfamily -\/ (void) start\+Movie \begin{DoxyParamCaption}{ }\end{DoxyParamCaption}}
+
+\hypertarget{interface_content_displayer_a2786869da988a49840b68827fcc113c6}{}\label{interface_content_displayer_a2786869da988a49840b68827fcc113c6} 
+\index{Content\+Displayer@{Content\+Displayer}!stop\+Movie@{stop\+Movie}}
+\index{stop\+Movie@{stop\+Movie}!Content\+Displayer@{Content\+Displayer}}
+\subsubsection{\texorpdfstring{stop\+Movie()}{stopMovie()}}
+{\footnotesize\ttfamily -\/ (void) stop\+Movie \begin{DoxyParamCaption}{ }\end{DoxyParamCaption}}
+
+\hypertarget{interface_content_displayer_a83192dc0784c16bd36fcd44d9483cd57}{}\label{interface_content_displayer_a83192dc0784c16bd36fcd44d9483cd57} 
+\index{Content\+Displayer@{Content\+Displayer}!un\+Observe\+Key\+Values@{un\+Observe\+Key\+Values}}
+\index{un\+Observe\+Key\+Values@{un\+Observe\+Key\+Values}!Content\+Displayer@{Content\+Displayer}}
+\subsubsection{\texorpdfstring{un\+Observe\+Key\+Values()}{unObserveKeyValues()}}
+{\footnotesize\ttfamily -\/ (void) un\+Observe\+Key\+Values \begin{DoxyParamCaption}{ }\end{DoxyParamCaption}}
+
+
+
+\subsection{Property Documentation}
+\hypertarget{interface_content_displayer_a0d19b1773442e481626b142d0a23fe72}{}\label{interface_content_displayer_a0d19b1773442e481626b142d0a23fe72} 
+\index{Content\+Displayer@{Content\+Displayer}!content\+Type@{content\+Type}}
+\index{content\+Type@{content\+Type}!Content\+Displayer@{Content\+Displayer}}
+\subsubsection{\texorpdfstring{content\+Type}{contentType}}
+{\footnotesize\ttfamily -\/ (int) content\+Type\hspace{0.3cm}{\ttfamily [read]}, {\ttfamily [write]}, {\ttfamily [nonatomic]}, {\ttfamily [assign]}}
+
+\hypertarget{interface_content_displayer_a271c75b6c7eae098d25223b989e78e9e}{}\label{interface_content_displayer_a271c75b6c7eae098d25223b989e78e9e} 
+\index{Content\+Displayer@{Content\+Displayer}!data@{data}}
+\index{data@{data}!Content\+Displayer@{Content\+Displayer}}
+\subsubsection{\texorpdfstring{data}{data}}
+{\footnotesize\ttfamily -\/ (N\+S\+Data$\ast$) data\hspace{0.3cm}{\ttfamily [read]}, {\ttfamily [write]}, {\ttfamily [nonatomic]}, {\ttfamily [weak]}}
+
+\hypertarget{interface_content_displayer_a88ae9e71a5bf3e3317b719a9ed24ef6e}{}\label{interface_content_displayer_a88ae9e71a5bf3e3317b719a9ed24ef6e} 
+\index{Content\+Displayer@{Content\+Displayer}!i\+View@{i\+View}}
+\index{i\+View@{i\+View}!Content\+Displayer@{Content\+Displayer}}
+\subsubsection{\texorpdfstring{i\+View}{iView}}
+{\footnotesize\ttfamily -\/ (U\+I\+Image\+View$\ast$) i\+View\hspace{0.3cm}{\ttfamily [read]}, {\ttfamily [write]}, {\ttfamily [nonatomic]}, {\ttfamily [strong]}}
+
+\hypertarget{interface_content_displayer_a25ed98fdc92fda41a7c53829f5d05b4b}{}\label{interface_content_displayer_a25ed98fdc92fda41a7c53829f5d05b4b} 
+\index{Content\+Displayer@{Content\+Displayer}!my\+View@{my\+View}}
+\index{my\+View@{my\+View}!Content\+Displayer@{Content\+Displayer}}
+\subsubsection{\texorpdfstring{my\+View}{myView}}
+{\footnotesize\ttfamily -\/ (U\+I\+View$\ast$) my\+View\hspace{0.3cm}{\ttfamily [read]}, {\ttfamily [write]}, {\ttfamily [nonatomic]}, {\ttfamily [strong]}}
+
+\hypertarget{interface_content_displayer_ac8cd5e3d377ad4c158ad8a8f690abde4}{}\label{interface_content_displayer_ac8cd5e3d377ad4c158ad8a8f690abde4} 
+\index{Content\+Displayer@{Content\+Displayer}!url@{url}}
+\index{url@{url}!Content\+Displayer@{Content\+Displayer}}
+\subsubsection{\texorpdfstring{url}{url}}
+{\footnotesize\ttfamily -\/ (N\+S\+U\+RL$\ast$) url\hspace{0.3cm}{\ttfamily [read]}, {\ttfamily [write]}, {\ttfamily [nonatomic]}, {\ttfamily [strong]}}
+
+\hypertarget{interface_content_displayer_a66c3907833921bd7750a58467ce01661}{}\label{interface_content_displayer_a66c3907833921bd7750a58467ce01661} 
+\index{Content\+Displayer@{Content\+Displayer}!using\+Queue\+Player@{using\+Queue\+Player}}
+\index{using\+Queue\+Player@{using\+Queue\+Player}!Content\+Displayer@{Content\+Displayer}}
+\subsubsection{\texorpdfstring{using\+Queue\+Player}{usingQueuePlayer}}
+{\footnotesize\ttfamily -\/ (B\+O\+OL) using\+Queue\+Player\hspace{0.3cm}{\ttfamily [read]}, {\ttfamily [write]}, {\ttfamily [nonatomic]}, {\ttfamily [assign]}}
+
+\hypertarget{interface_content_displayer_afe0c54fd8098df7af42a160113ec6e34}{}\label{interface_content_displayer_afe0c54fd8098df7af42a160113ec6e34} 
+\index{Content\+Displayer@{Content\+Displayer}!vid\+Layer@{vid\+Layer}}
+\index{vid\+Layer@{vid\+Layer}!Content\+Displayer@{Content\+Displayer}}
+\subsubsection{\texorpdfstring{vid\+Layer}{vidLayer}}
+{\footnotesize\ttfamily -\/ (\hyperlink{interface_video_layer}{Video\+Layer}$\ast$) vid\+Layer\hspace{0.3cm}{\ttfamily [read]}, {\ttfamily [write]}, {\ttfamily [nonatomic]}, {\ttfamily [strong]}}
+
+
+
+The documentation for this class was generated from the following files\+:\begin{DoxyCompactItemize}
+\item 
+Snap\+Main\+Dir/\+T\+V\+C/\+Snap\+T\+V\+Controllers/\+Snap\+Cell\+Controllers/\hyperlink{_content_displayer_8h}{Content\+Displayer.\+h}\item 
+Snap\+Main\+Dir/\+T\+V\+C/\+Snap\+T\+V\+Controllers/\+Snap\+Cell\+Controllers/\hyperlink{_content_displayer_8m}{Content\+Displayer.\+m}\end{DoxyCompactItemize}

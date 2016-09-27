@@ -1,0 +1,44 @@
+\hypertarget{_h_t_t_p_helper_8h}{}\section{Snap\+Main\+Dir/\+Rest/\+H\+T\+T\+P\+Helper.h File Reference}
+\label{_h_t_t_p_helper_8h}\index{Snap\+Main\+Dir/\+Rest/\+H\+T\+T\+P\+Helper.\+h@{Snap\+Main\+Dir/\+Rest/\+H\+T\+T\+P\+Helper.\+h}}
+{\ttfamily \#import $<$Foundation/\+Foundation.\+h$>$}\newline
+{\ttfamily \#import $<$Core\+Foundation/\+Core\+Foundation.\+h$>$}\newline
+\subsection*{Classes}
+\begin{DoxyCompactItemize}
+\item 
+protocol \hyperlink{protocol_n_s_u_r_l_response_handler-p}{$<$\+N\+S\+U\+R\+L\+Response\+Handler$>$}
+\item 
+class \hyperlink{interface_basic_handler}{Basic\+Handler}
+\item 
+class \hyperlink{interface_h_t_t_p_helper}{H\+T\+T\+P\+Helper}
+\end{DoxyCompactItemize}
+\subsection*{Macros}
+\begin{DoxyCompactItemize}
+\item 
+\#define \hyperlink{_h_t_t_p_helper_8h_a22bd528b42e333bb6f98c1d281151b4d}{basic\+Handler}()
+\item 
+\#define \hyperlink{_h_t_t_p_helper_8h_af8a169f99c318dcfdfe00991fe85099b}{get\+Value}(dict,  key)~if(\mbox{[}dict object\+For\+Key\+:key\mbox{]})\{return dict\mbox{[}key\mbox{]};\}else\{return nil;\}
+\end{DoxyCompactItemize}
+
+
+\subsection{Macro Definition Documentation}
+\hypertarget{_h_t_t_p_helper_8h_a22bd528b42e333bb6f98c1d281151b4d}{}\label{_h_t_t_p_helper_8h_a22bd528b42e333bb6f98c1d281151b4d} 
+\index{H\+T\+T\+P\+Helper.\+h@{H\+T\+T\+P\+Helper.\+h}!basic\+Handler@{basic\+Handler}}
+\index{basic\+Handler@{basic\+Handler}!H\+T\+T\+P\+Helper.\+h@{H\+T\+T\+P\+Helper.\+h}}
+\subsubsection{\texorpdfstring{basic\+Handler}{basicHandler}}
+{\footnotesize\ttfamily \#define basic\+Handler(\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+{\bfseries Value\+:}
+\begin{DoxyCode}
+\hyperlink{interface_basic_handler}{BasicHandler} * \hyperlink{_h_t_t_p_helper_8h_a22bd528b42e333bb6f98c1d281151b4d}{basicHandler} = [[\hyperlink{interface_basic_handler}{BasicHandler}  alloc]init];\(\backslash\)
+if(error)\{\(\backslash\)
+    [basicHandler acceptURL:nil withData:nil withBlock:onCompletion];\(\backslash\)
+\}\textcolor{keywordflow}{else}\{\(\backslash\)
+    [basicHandler acceptURL:response withData:data withBlock:onCompletion];\(\backslash\)
+\}
+\end{DoxyCode}
+\hypertarget{_h_t_t_p_helper_8h_af8a169f99c318dcfdfe00991fe85099b}{}\label{_h_t_t_p_helper_8h_af8a169f99c318dcfdfe00991fe85099b} 
+\index{H\+T\+T\+P\+Helper.\+h@{H\+T\+T\+P\+Helper.\+h}!get\+Value@{get\+Value}}
+\index{get\+Value@{get\+Value}!H\+T\+T\+P\+Helper.\+h@{H\+T\+T\+P\+Helper.\+h}}
+\subsubsection{\texorpdfstring{get\+Value}{getValue}}
+{\footnotesize\ttfamily \#define get\+Value(\begin{DoxyParamCaption}\item[{}]{dict,  }\item[{}]{key }\end{DoxyParamCaption})~if(\mbox{[}dict object\+For\+Key\+:key\mbox{]})\{return dict\mbox{[}key\mbox{]};\}else\{return nil;\}}
+

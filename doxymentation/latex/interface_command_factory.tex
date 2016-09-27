@@ -1,0 +1,79 @@
+\hypertarget{interface_command_factory}{}\section{Command\+Factory Class Reference}
+\label{interface_command_factory}\index{Command\+Factory@{Command\+Factory}}
+
+
+{\ttfamily \#import $<$Command.\+h$>$}
+
+Inheritance diagram for Command\+Factory\+:\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[height=2.000000cm]{interface_command_factory}
+\end{center}
+\end{figure}
+\subsection*{Class Methods}
+\begin{DoxyCompactItemize}
+\item 
+(void) + \hyperlink{interface_command_factory_a9d8bd168e2d18eb390fd0954e4363f6f}{this\+User\+Saw\+Snap\+:}
+\item 
+(void) + \hyperlink{interface_command_factory_a588a6fa21e8014e73b266f46c11ff113}{this\+User\+Screen\+Shotted\+Snap\+:}
+\item 
+(void) + \hyperlink{interface_command_factory_a1b6d6ea45699e302c3f893097a15d8a8}{this\+User\+Deleted\+Snap\+From\+Story\+:}
+\item 
+(void) + \hyperlink{interface_command_factory_a3443e754f897cf8df9f488ae6dacbb63}{parse\+And\+Execute\+Command\+List}
+\item 
+(void) + \hyperlink{interface_command_factory_a68b40946a13884b50b60245f1cc9e03d}{this\+User\+:\+Saw\+Snap\+:who\+Owns\+It\+:}
+\item 
+(void) + \hyperlink{interface_command_factory_a2c6cb3673a158b7a668dc642ff4d795c}{this\+User\+:\+Screen\+Shotted\+Snap\+:who\+Owns\+It\+:}
+\item 
+(void) + \hyperlink{interface_command_factory_a29062efc02ac95b916f5b2f9056d0678}{this\+User\+:and\+Pass\+:\+Deleted\+Snap\+From\+Story\+:}
+\end{DoxyCompactItemize}
+
+
+\subsection{Method Documentation}
+\hypertarget{interface_command_factory_a3443e754f897cf8df9f488ae6dacbb63}{}\label{interface_command_factory_a3443e754f897cf8df9f488ae6dacbb63} 
+\index{Command\+Factory@{Command\+Factory}!parse\+And\+Execute\+Command\+List@{parse\+And\+Execute\+Command\+List}}
+\index{parse\+And\+Execute\+Command\+List@{parse\+And\+Execute\+Command\+List}!Command\+Factory@{Command\+Factory}}
+\subsubsection{\texorpdfstring{parse\+And\+Execute\+Command\+List()}{parseAndExecuteCommandList()}}
+{\footnotesize\ttfamily + (void) parse\+And\+Execute\+Command\+List \begin{DoxyParamCaption}{ }\end{DoxyParamCaption}}
+
+\hypertarget{interface_command_factory_a29062efc02ac95b916f5b2f9056d0678}{}\label{interface_command_factory_a29062efc02ac95b916f5b2f9056d0678} 
+\index{Command\+Factory@{Command\+Factory}!this\+User\+:and\+Pass\+:\+Deleted\+Snap\+From\+Story\+:@{this\+User\+:and\+Pass\+:\+Deleted\+Snap\+From\+Story\+:}}
+\index{this\+User\+:and\+Pass\+:\+Deleted\+Snap\+From\+Story\+:@{this\+User\+:and\+Pass\+:\+Deleted\+Snap\+From\+Story\+:}!Command\+Factory@{Command\+Factory}}
+\subsubsection{\texorpdfstring{this\+User\+:and\+Pass\+:\+Deleted\+Snap\+From\+Story\+:()}{thisUser:andPass:DeletedSnapFromStory:()}}
+{\footnotesize\ttfamily + (void) this\+User\+: \begin{DoxyParamCaption}\item[{(N\+S\+String $\ast$)}]{user }\item[{andPass:(N\+S\+String $\ast$)}]{pass }\item[{DeletedSnapFromStory:(\hyperlink{interface_snap}{Snap} $\ast$)}]{the\+Snap }\end{DoxyParamCaption}}
+
+\hypertarget{interface_command_factory_a68b40946a13884b50b60245f1cc9e03d}{}\label{interface_command_factory_a68b40946a13884b50b60245f1cc9e03d} 
+\index{Command\+Factory@{Command\+Factory}!this\+User\+:\+Saw\+Snap\+:who\+Owns\+It\+:@{this\+User\+:\+Saw\+Snap\+:who\+Owns\+It\+:}}
+\index{this\+User\+:\+Saw\+Snap\+:who\+Owns\+It\+:@{this\+User\+:\+Saw\+Snap\+:who\+Owns\+It\+:}!Command\+Factory@{Command\+Factory}}
+\subsubsection{\texorpdfstring{this\+User\+:\+Saw\+Snap\+:who\+Owns\+It\+:()}{thisUser:SawSnap:whoOwnsIt:()}}
+{\footnotesize\ttfamily + (void) this\+User\+: \begin{DoxyParamCaption}\item[{(N\+S\+String $\ast$)}]{user }\item[{SawSnap:(\hyperlink{interface_snap}{Snap} $\ast$)}]{the\+Snap }\item[{whoOwnsIt:(N\+S\+String $\ast$)}]{owner }\end{DoxyParamCaption}}
+
+\hypertarget{interface_command_factory_a2c6cb3673a158b7a668dc642ff4d795c}{}\label{interface_command_factory_a2c6cb3673a158b7a668dc642ff4d795c} 
+\index{Command\+Factory@{Command\+Factory}!this\+User\+:\+Screen\+Shotted\+Snap\+:who\+Owns\+It\+:@{this\+User\+:\+Screen\+Shotted\+Snap\+:who\+Owns\+It\+:}}
+\index{this\+User\+:\+Screen\+Shotted\+Snap\+:who\+Owns\+It\+:@{this\+User\+:\+Screen\+Shotted\+Snap\+:who\+Owns\+It\+:}!Command\+Factory@{Command\+Factory}}
+\subsubsection{\texorpdfstring{this\+User\+:\+Screen\+Shotted\+Snap\+:who\+Owns\+It\+:()}{thisUser:ScreenShottedSnap:whoOwnsIt:()}}
+{\footnotesize\ttfamily + (void) this\+User\+: \begin{DoxyParamCaption}\item[{(N\+S\+String $\ast$)}]{user }\item[{ScreenShottedSnap:(\hyperlink{interface_snap}{Snap} $\ast$)}]{the\+Snap }\item[{whoOwnsIt:(N\+S\+String $\ast$)}]{owner }\end{DoxyParamCaption}}
+
+\hypertarget{interface_command_factory_a1b6d6ea45699e302c3f893097a15d8a8}{}\label{interface_command_factory_a1b6d6ea45699e302c3f893097a15d8a8} 
+\index{Command\+Factory@{Command\+Factory}!this\+User\+Deleted\+Snap\+From\+Story\+:@{this\+User\+Deleted\+Snap\+From\+Story\+:}}
+\index{this\+User\+Deleted\+Snap\+From\+Story\+:@{this\+User\+Deleted\+Snap\+From\+Story\+:}!Command\+Factory@{Command\+Factory}}
+\subsubsection{\texorpdfstring{this\+User\+Deleted\+Snap\+From\+Story\+:()}{thisUserDeletedSnapFromStory:()}}
+{\footnotesize\ttfamily + (void) this\+User\+Deleted\+Snap\+From\+Story\+: \begin{DoxyParamCaption}\item[{(\hyperlink{interface_snap}{Snap} $\ast$)}]{the\+Snap }\end{DoxyParamCaption}}
+
+\hypertarget{interface_command_factory_a9d8bd168e2d18eb390fd0954e4363f6f}{}\label{interface_command_factory_a9d8bd168e2d18eb390fd0954e4363f6f} 
+\index{Command\+Factory@{Command\+Factory}!this\+User\+Saw\+Snap\+:@{this\+User\+Saw\+Snap\+:}}
+\index{this\+User\+Saw\+Snap\+:@{this\+User\+Saw\+Snap\+:}!Command\+Factory@{Command\+Factory}}
+\subsubsection{\texorpdfstring{this\+User\+Saw\+Snap\+:()}{thisUserSawSnap:()}}
+{\footnotesize\ttfamily + (void) this\+User\+Saw\+Snap\+: \begin{DoxyParamCaption}\item[{(\hyperlink{interface_snap}{Snap} $\ast$)}]{the\+Snap }\end{DoxyParamCaption}}
+
+\hypertarget{interface_command_factory_a588a6fa21e8014e73b266f46c11ff113}{}\label{interface_command_factory_a588a6fa21e8014e73b266f46c11ff113} 
+\index{Command\+Factory@{Command\+Factory}!this\+User\+Screen\+Shotted\+Snap\+:@{this\+User\+Screen\+Shotted\+Snap\+:}}
+\index{this\+User\+Screen\+Shotted\+Snap\+:@{this\+User\+Screen\+Shotted\+Snap\+:}!Command\+Factory@{Command\+Factory}}
+\subsubsection{\texorpdfstring{this\+User\+Screen\+Shotted\+Snap\+:()}{thisUserScreenShottedSnap:()}}
+{\footnotesize\ttfamily + (void) this\+User\+Screen\+Shotted\+Snap\+: \begin{DoxyParamCaption}\item[{(\hyperlink{interface_snap}{Snap} $\ast$)}]{the\+Snap }\end{DoxyParamCaption}}
+
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+Snap\+Main\+Dir/\+Rest/\+Methods/\hyperlink{_command_8h}{Command.\+h}\end{DoxyCompactItemize}

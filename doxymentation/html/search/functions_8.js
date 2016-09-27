@@ -1,0 +1,12 @@
+var searchData=
+[
+  ['imagewithview_3a',['imageWithView:',['../interface_picture_editor_view.html#a538b91286f6528696320d2450704f78e',1,'PictureEditorView']]],
+  ['init',['init',['../interface_content_displayer.html#a8609eb22a891ebc39b25b6ccd4b9cb00',1,'ContentDisplayer::init()'],['../interface_snap_viewer_view_controller.html#ae35bd2e3d57eff9a6ed5be1031eb4b0e',1,'SnapViewerViewController::init()'],['../interface_story_snap_view_controller.html#a2a833b5127655faabdcd388e295bbeeb',1,'StorySnapViewController::init()']]],
+  ['initwithdata_3awithcontenttype_3aandurl_3aorsnap_3aandstory_3a',['initWithData:withContentType:andUrl:orSnap:andStory:',['../interface_snap_viewer_view_controller.html#a1888c9ca900f5160de0e5ca706f0ecd8',1,'SnapViewerViewController']]],
+  ['initwithframe_3aanddata_3awithcontenttype_3aandurl_3aorwithsnap_3aandstory_3a',['initWithFrame:andData:withContentType:andUrl:orWithSnap:andStory:',['../interface_content_displayer.html#aae262893d4c6e7ff993ff480a93186e2',1,'ContentDisplayer::initWithFrame:andData:withContentType:andUrl:orWithSnap:andStory:()'],['../interface_story_snap_view_controller.html#a68cc9ae68e9c4c500b5f1a10460e592c',1,'StorySnapViewController::initWithFrame:andData:withContentType:andUrl:orWithSnap:andStory:()']]],
+  ['initwithfromvc_3atovc_3a',['initWithFromVC:toVC:',['../interface_snap_transition_animator.html#a7a2604e49aa0328bd39f02f9a51ff320',1,'SnapTransitionAnimator::initWithFromVC:toVC:()'],['../interface_snap_transition_delegate.html#af490767a6f1fc42f42bec86158e0cc84',1,'SnapTransitionDelegate::initWithFromVC:toVC:()']]],
+  ['initwithparentview_3aandlabel_3a',['initWithParentView:andLabel:',['../interface_text_delegate_handler.html#a2e1a7bea6b217ef07429a92c93bb870c',1,'TextDelegateHandler']]],
+  ['insertobject_3ainsnaplistatindex_3a',['insertObject:inSnapListAtIndex:',['../category_story_07_core_data_generated_accessors_08.html#ac7aaa8d738a55d8f7cb8fd0c26fd4b70',1,'Story(CoreDataGeneratedAccessors)::insertObject:inSnapListAtIndex:()'],['../interface_story.html#ac7aaa8d738a55d8f7cb8fd0c26fd4b70',1,'Story::insertObject:inSnapListAtIndex:()']]],
+  ['insertsnap_3a',['insertSnap:',['../interface_story.html#a26833828ef49f8ccd8731b7b2a276650',1,'Story']]],
+  ['insertsnaplist_3aatindexes_3a',['insertSnapList:atIndexes:',['../category_story_07_core_data_generated_accessors_08.html#a84a4bc73fd231a323da10244fa876157',1,'Story(CoreDataGeneratedAccessors)::insertSnapList:atIndexes:()'],['../interface_story.html#a84a4bc73fd231a323da10244fa876157',1,'Story::insertSnapList:atIndexes:()']]]
+];
