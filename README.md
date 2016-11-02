@@ -10,6 +10,8 @@ http://snap-jrm43.rhcloud.com/
 
 All you should have to do is change the provisioning profile and it should work!
 
+If you have an updated version of XCode and are trying to run ios 10+ it will not run on the simulator however because the simulator does not have a camera 
+
 SnapClone is an iOS app written in Objective-C that mimicks the very popular snapchat
 and some of the functionality includes
 
